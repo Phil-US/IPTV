@@ -1177,6 +1177,8 @@ http://158.101.214.187:8080/channel/n2e9da519/index.m3u8?q=7ee6da511c20602ecb091
 http://185.23.80.28:8080/StarCinema/index.m3u8?token=fas-tv.com
 #EXTINF:-1 group-title="KINO+",Star Family
 http://185.23.80.28:8080/StarFamily/index.m3u8?token=fas-tv.com
+S#EXTINF:-1 group-title="KINO+",Star Family HD
+http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="KINO+",Кіно ТВ vhs
 https://glb.bozztv.com/ssh101/kinotvua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",FILM TV GROUP
@@ -1195,6 +1197,14 @@ http://live.admuspeh.my/8028/index.m3u8?token=Fas-tvIp25tva
 http://live.admuspeh.my/8322/index.m3u8?token=Fas-tvIp25tva
 #EXTINF:-1 group-title="KINO+",Hollywood HD
 http://live.admuspeh.my/8651/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:-1 group-title="KINO+",Kino 1 HD
+http://87.99.87.203:2020/channel/n216d0c1/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 group-title="KINO+",Kino 7 [LV]
+http://87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 group-title="KINO+",FilmZone
+http://87.99.87.203:2020/channel/1d89eedf/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 group-title="KINO+",FilmZone+ [LT]
+http://87.99.87.203:2020/channel/22002904/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="KINO+",TV3 plus HD
 http://87.99.87.203:2020/channel/7a5e2ab5/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="KINO+",Go3 Films FHD
@@ -1203,6 +1213,8 @@ http://87.99.87.203:2020/channel/5023b065/index.m3u8?q=e329a8ed47aaa7d3d3187d570
 http://87.99.87.203:2020/channel/2af95c64/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
 #EXTINF:-1 group-title="KINO+",Duo6
 http://87.99.87.203:2020/channel/2afab981/index.m3u8?q=e329a8ed47aaa7d3d3187d570c2389dc
+#EXTINF:-1 group-title="KINO+",Plan b
+http://87.99.87.203:2007/channel/n1b7bd116/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1 group-title="KINO+",312 Кино 
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="KINO+",Kinojam 1 
@@ -1265,7 +1277,9 @@ http://158.101.194.132:8080/channel/7d3fabec/index.m3u8?q=4965b2524bbd5b7c9cadb3
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="KINO+",Just tv
 http://185.236.229.62:9981/play/a08e
-#EXTINF:-1 group-title="KINO+",ATV Kino
+#EXTINF:-1 group-title="KINO+",ATV Kinoman
+http://s1.merlive.am/Kinoman/index.m3u8
+#EXTINF:-1 group-title="KINO+",ATV Bazmoc TV
 http://stream01.vnet.am/Channel_118/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Нове тв 
 https://novoe.top/nove_tv.m3u8.jpg?m3u8
@@ -1515,6 +1529,8 @@ http://live.admuspeh.my/8970/index.m3u8?token=Tva25uspehTest
 http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",RETRO
 http://185.23.80.28:8080/Retro/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",Ретро ТВ
+http://194.158.218.123:8880/Retrotv/index.m3u8
 #EXTINF:-1 group-title="KINO+",Ностальгия
 http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="KINO+",Ностальгия [720x576]
