@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 ,ТВA-21.01.25-tva.in.ua
+#EXTINF:-1 ,ТВA-22.01.25-tva.in.ua
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 group-title="Премиум Кино", BCU Premiere
 http://live.admuspeh.my/8468/index.m3u8?token=TestuspehTva
@@ -2233,9 +2233,13 @@ http://live.admuspeh.my/8116/index.m3u8?token=Njrty24ghjCnjNfr
 http://158.101.214.187:8080/channel/n4440b0b8/index.m3u8?q=f0a6c9939631aa1da84c5fbc3b8f5d9f
 #EXTINF:-1 group-title="Україна",1+1 Україна HD
 http://158.101.214.187:8080/channel/n4440b0b8/index.m3u8?q=7ee6da511c20602ecb091c69a89f329a
+#EXTINF:-1 group-title="Україна",1+1 Ukraina 
+http://91.233.90.125:8080/1plus1_Ukraina
+#EXTINF:-1 group-title="Україна",2+2 
+http://91.233.90.125:8080/2plus2
 #EXTINF:-1 group-title="Україна",2+2 HD
 http://live.admuspeh.my/8117/index.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 group-title="Україна",2+2  
+#EXTINF:-1 group-title="Україна",2+2 hd 
 http://live.admuspeh.my/8117/video.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="Україна",ICTV Серіал HD
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
@@ -2247,18 +2251,24 @@ http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 http://cdnua05.hls.tv/625/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 group-title="Україна",ICTV СЕРІАЛ
 https://vs847.vcdn.biz/b1cacdcfe9d0e6e7402bfee786001b62_megogo/live/hls/dscte/2/advtracker/1/b/700_2490/u_sid/0/o/195113391/rsid/174c67db-0008-4823-8c0f-8142686e5ae8/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/176.98.8.68*asn/u_srvc/81235/u_did/web_fXAUAC6dRqIyPEOMB02F5h294TuveGSY/type.live/chunklist-sid2292503938375066663-b2490000.m3u8
-#EXTINF:-1 group-title="Україна", ICTV 2 HD
+#EXTINF:-1 group-title="Україна",ICTV 2 HD
 http://live.admuspeh.my/8077/video.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 group-title="Україна", ICTV 2 
+#EXTINF:-1 group-title="Україна",ICTV 2 
 http://live.admuspeh.my/8077/index.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 group-title="Україна", ICTV 2 hd
+#EXTINF:-1 group-title="Україна",ICTV 2 hd
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="Україна", ICTV 2 hd1
+#EXTINF:-1 group-title="Україна",ICTV 2 hd1
 http://cdnua05.hls.tv/921/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="Україна", ICTV 2 r1
+#EXTINF:-1 group-title="Україна",ICTV 2 r1
 http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="Україна", ICTV 2 r2
+#EXTINF:-1 group-title="Україна",ICTV 2 r2
 http://cdnua05.hls.tv/427/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1 group-title="Україна",ICTV2 HD
+http://91.233.90.125:8080/ICTV_2
+#EXTINF:-1 group-title="Україна",STB HD
+http://91.233.90.125:8080/STB
+#EXTINF:-1 group-title="Україна",STB
+http://146.59.85.40:89/stb/mpegts
 #EXTINF:-1 group-title="Україна",СТБ 
 http://live.admuspeh.my/8090/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",СТБ hd
@@ -2275,22 +2285,44 @@ http://live.admuspeh.my/8280/index.m3u8?token=Njrty24ghjCnjNfr
 http://live.admuspeh.my/8138/video.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",ТЕТ 
 http://live.admuspeh.my/8138/index.m3u8?token=Njrty24ghjCnjNfr
-#EXTINF:-1 group-title="Україна",Cine+ HD
-http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 group-title="Україна",Cine+
-http://cdnua05.hls.tv/932/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 group-title="Україна",Cine+ R
-http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 group-title="Україна",FILMUADRAMA HD
-http://live.admuspeh.my/8314/index.m3u8?token=Njrty24ghjCnjNfr
+#EXTINF:-1 group-title="Україна",Tet 
+http://91.233.90.125:8080/TET
+#EXTINF:-1 group-title="Україна",K1 HD
+http://91.233.90.125:8080/K1
+#EXTINF:-1 group-title="Україна",K2 HD
+http://91.233.90.125:8080/K2
+#EXTINF:-1 group-title="Україна",Relax Tvoe Kino HD
+http://91.233.90.125:8080/Relax_TvoeKino
+#EXTINF:-1 group-title="Україна",MI+ Ukraina HD
+http://91.233.90.125:8080/WE_UkrainaPlus
+#EXTINF:-1 group-title="Україна",Квартал ТВ
+http://146.59.85.40:89/kvartal/mpegts
+#EXTINF:-1 group-title="Україна",TVIY Serial HD
+http://146.59.85.40:89/tviyserial/mpegts
 #EXTINF:-1 group-title="Україна",УНІАН [720x576]
 https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Україна",Usba TV - Україна
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Україна",Usba TV - Україна 2
 https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна",Bigudi
+http://91.233.90.125:8080/Bigudi
+#EXTINF:-1 group-title="Україна",Dim TV
+http://91.233.90.125:8080/DIM_TV
+#EXTINF:-1 group-title="Україна",Zoom HD
+http://91.233.90.125:8080/Zoom
+#EXTINF:-1 group-title="Україна",Sonce 
+http://91.233.90.125:8080/Sonce
 #EXTINF:-1 group-title="Україна",СОНЦЕ
 http://84.200.70.180:4642/bysid/6920
+#EXTINF:-1 group-title="Україна",Сонце HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="Україна",Cine+ HD
+http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1 group-title="Україна",Cine+
+http://cdnua05.hls.tv/932/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1 group-title="Україна",Cine+ R
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
 #EXTINF:-1 group-title="Україна",D1
 https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Україна",Твій серіал
@@ -3997,6 +4029,38 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="18+",Кино 18+ (18+)
 https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="18+",Brazzers TV
+https://cdn-vod.lolokoko.tv:8443/brazzers.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Dorcel TV
+https://cdn-vod.lolokoko.tv:8443/dorceltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Hustler HD
+https://cdn-vod.lolokoko.tv:8443/hustler.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",XXL
+https://cdn-vod.lolokoko.tv:8443/xxl.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",EroXX
+https://cdn-vod.lolokoko.tv:8443/Eroxx.stream/playlist.m2u8
+#EXTINF:-1 group-title="18+",EroXXX
+https://cdn-vod.lolokoko.tv:8443/Eroxxx.stream/playlist.m2u8
+#EXTINF:-1 group-title="18+",Private TV
+https://cdn-vod.lolokoko.tv:8443/private.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Redlight HD
+https://cdn-vod.lolokoko.tv:8443/redlight.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Brazzers TV r
+https://cdn-nvm-chicago2.lolokoko.tv/brazzers.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Dorcel TV r
+https://cdn-nvm-chicago2.lolokoko.tv/dorceltv.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",Hustler HD r
+https://cdn-nvm-chicago2.lolokoko.tv/hustler.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",XXL r
+https://cdn-nvm-chicago2.lolokoko.tv/xxl.stream/chunks.m3u8
+#EXTINF:-1 group-title="18+",EroXX r
+https://cdn-nvm-chicago2.lolokoko.tv/Eroxx.stream/playlist.m2u8
+#EXTINF:-1 group-title="18+",EroXXX r
+https://cdn-nvm-chicago2.lolokoko.tv/Eroxxx.stream/playlist.m2u8
+#EXTINF:-1 group-title="18+",Private TV r
+https://cdn-nvm-chicago2.lolokoko.tv/private.stream/chunks.m3u8 
+#EXTINF:-1 group-title="18+",Redlight HD r
+https://cdn-nvm-chicago2.lolokoko.tv/redlight.stream/chunks.m3u8
 #EXTINF:-1 group-title="18+",Pink Erotic 1 
 http://46.240.130.158/PinkErotic1/tracks-v1a1/mono.m3u8?token=test 
 #EXTINF:-1 group-title="18+",Pink Erotic 2 
