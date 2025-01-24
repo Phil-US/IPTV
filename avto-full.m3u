@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 ,ТВA-22.01.25-tva.in.ua
+#EXTINF:-1 ,ТВA-23.01.25-tva.in.ua
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 group-title="Премиум Кино", BCU Premiere
 http://live.admuspeh.my/8468/index.m3u8?token=TestuspehTva
@@ -2277,6 +2277,10 @@ http://live.admuspeh.my/8090/video.m3u8?token=Njrty24ghjCnjNfr
 http://live.admuspeh.my/8130/video.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",Новый канал 
 http://live.admuspeh.my/8130/index.m3u8?token=Njrty24ghjCnjNfr
+#EXTINF:-1 group-title="Україна",Novy Kanal
+http://91.233.90.125:8080/Novy
+#EXTINF:-1 group-title="Україна",NTN
+http://91.233.90.125:8080/NTN
 #EXTINF:-1 group-title="Україна",НТН HD
 http://live.admuspeh.my/8280/video.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",НТН 
@@ -2287,12 +2291,16 @@ http://live.admuspeh.my/8138/video.m3u8?token=Njrty24ghjCnjNfr
 http://live.admuspeh.my/8138/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",Tet 
 http://91.233.90.125:8080/TET
+#EXTINF:-1 group-title="Україна",Enter Film
+http://91.233.90.125:8080/EnterFilm
 #EXTINF:-1 group-title="Україна",K1 HD
 http://91.233.90.125:8080/K1
 #EXTINF:-1 group-title="Україна",K2 HD
 http://91.233.90.125:8080/K2
 #EXTINF:-1 group-title="Україна",Relax Tvoe Kino HD
 http://91.233.90.125:8080/Relax_TvoeKino
+#EXTINF:-1 group-title="Україна",Xit TVOE Kino HD
+http://91.233.90.125:8080/Xit_TvoeKino
 #EXTINF:-1 group-title="Україна",MI+ Ukraina HD
 http://91.233.90.125:8080/WE_UkrainaPlus
 #EXTINF:-1 group-title="Україна",Квартал ТВ
@@ -2317,6 +2325,18 @@ http://91.233.90.125:8080/Sonce
 http://84.200.70.180:4642/bysid/6920
 #EXTINF:-1 group-title="Україна",Сонце HD TV 
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="Україна",Мега HD 
+http://live.admuspeh.my/8100/index.m3u8?token=Njrty24ghjCnjNfr
+#EXTINF:-1 group-title="Україна",Mega
+http://91.233.90.125:8080/Mega
+#EXTINF:-1 group-title="Україна",Terra
+http://91.233.90.125:8080/Terra
+#EXTINF:-1 group-title="Україна",Nauka 
+http://91.233.90.125:8080/Nauka
+#EXTINF:-1 group-title="Україна",Fauna 
+http://91.233.90.125:8080/Fauna
+#EXTINF:-1 group-title="Україна",Travel&Food
+http://91.233.90.125:8080/Travel
 #EXTINF:-1 group-title="Україна",Cine+ HD
 http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
 #EXTINF:-1 group-title="Україна",Cine+
@@ -2397,8 +2417,6 @@ http://cdnua05.hls.tv/1236/hls/8743361621b245838bee193c9ec28322/4877/stream.m3u8
 http://95.67.12.82:9069
 #EXTINF:-1 group-title="Україна",Перший Кабельний
 http://91.226.35.134:8081/PK
-#EXTINF:-1 group-title="Україна",Мега HD 
-http://live.admuspeh.my/8100/index.m3u8?token=Njrty24ghjCnjNfr
 #EXTINF:-1 group-title="Україна",Світ на виворіт+ HD
 http://cdnua05.hls.tv/611/hls/f62d71219200da4130d13b21d23fb23c/4886/stream.m3u8
 #EXTINF:-1 group-title="Україна",Світ на виворіт+
@@ -3317,6 +3335,16 @@ https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protoc
 http://iptv.prosto.tv:7000/ch344/video.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мега HD 
 http://live.admuspeh.my/8100/index.m3u8?token=Njrty24ghjCnjNfr
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Mega 
+http://91.233.90.125:8080/Mega
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Terra
+http://91.233.90.125:8080/Terra
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nauka 
+http://91.233.90.125:8080/Nauka
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Fauna 
+http://91.233.90.125:8080/Fauna
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel&Food
+http://91.233.90.125:8080/Travel
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
 http://live.admuspeh.my/8079/index.m3u8?token=Tva25uspehTest
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature HD
@@ -3505,6 +3533,14 @@ http://cdnua03.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 http://cdnua03.hls.tv/945/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",XSPORT+ HD
 http://cdnua03.hls.tv/947/hls/8743361621b245838bee193c9ec28322/4807/stream.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Megogo Sport HD
+http://91.233.90.125:8080/MegogoSport
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports HD
+http://91.233.90.125:8080/Setanta_Sport
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports+
+http://91.233.90.125:8080/Setanta_SportPlus
+#EXTINF:-1 group-title="SPORT 🏆",Suspilne Sport HD
+http://91.233.90.125:8080/SuspilneSport
 #EXTINF:-1 group-title="SPORT 🏆",Футбол 
 http://158.101.214.187:8080/channel/n6e13eae5/index.m3u8?q=f0a6c9939631aa1da84c5fbc3b8f5d9f
 #EXTINF:-1 group-title="SPORT 🏆",Футбол  HD
@@ -3751,7 +3787,15 @@ http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/31503/index.m3u8
 http://e3fde329.rossteleccom.net/iptv/B5MWVF2B66GG8B/31503/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",БОКС
 http://e3fde329.rossteleccom.net/iptv/LN9B7FVR2ZH8S9/31503/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S" Cartoonito
+#EXTINF:-1 group-title="CHILDREN'S",Niki Kids 
+http://91.233.90.125:8080/Niki_Kids
+#EXTINF:-1 group-title="CHILDREN'S",Niki Junior 
+http://91.233.90.125:8080/Niki_Junior
+#EXTINF:-1 group-title="CHILDREN'S",Plus Plus 
+http://91.233.90.125:8080/PlusPlus
+#EXTINF:-1 group-title="CHILDREN'S",Pixel HD
+http://91.233.90.125:8080/Pixel
+#EXTINF:-1 group-title="CHILDREN'S",Cartoonito
 http://live.admuspeh.my/8332/index.m3u8?token=iptvshared
 #EXTINF:-1 group-title="CHILDREN'S",Cartoon Network
 http://live.admuspeh.my/8064/index.m3u8?token=iptvshared
@@ -3931,16 +3975,16 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="МУЗИКА",70-80 TV [it]
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА",M1 HD
-http://2.57.217.197:8080/play/a09e/index.m3u8?key=iptv.org.ua
-#EXTINF:-1 group-title="МУЗИКА",M2 HD
-http://2.57.217.197:8080/play/a09f/index.m3u8?key=iptv.org.ua
-#EXTINF:-1 group-title="МУЗИКА",4EVER Music
-http://2.57.217.197:8080/play/a08x/index.m3u8?key=iptv.org.ua
-#EXTINF:-1 group-title="МУЗИКА",M1
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/95184.m3u8
-#EXTINF:-1 group-title="МУЗИКА",M2
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/95185.m3u8
+#EXTINF:-1 group-title="МУЗИКА",М1
+http://91.233.90.125:8080/M1
+#EXTINF:-1 group-title="МУЗИКА",М1 [720х576]
+http://live.admuspeh.my/8335/mpegts?token=TestuspehTva
+#EXTINF:-1 group-title="МУЗИКА",М2 [720х576]
+http://live.admuspeh.my/8336/mpegts?token=TestuspehTva
+#EXTINF:-1 group-title="МУЗИКА",М2 HD
+http://91.233.90.125:8080/M2
+#EXTINF:-1 group-title="МУЗИКА",М2 hd
+https://rebrand.ly/h46jugi/ROSTIK-TV/M-2
 #EXTINF:-1 group-title="МУЗИКА",М2 HD
 https://rebrand.ly/h46jugi/ROSTIK-TV/M-2
 #EXTINF:-1 group-title="МУЗИКА",М2 1280х720
