@@ -1,278 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 ,ТВA-25.02.25-tva.in.ua
+#EXTINF:-1 ,ТВA-12.03.25-tva.in.ua
 https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Premiere
-http://cdn.admuspeh.my/8468/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Кинозал Premiere 1 HD
-http://cdn.admuspeh.my/8873/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Кинозал Premiere 2 HD
-http://cdn.admuspeh.my/8872/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Кинозал Premiere 3 HD
-http://cdn.admuspeh.my/8883/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Christmas HD
-http://cdn.admuspeh.my/8886/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Мультсериал HD
-http://cdn.admuspeh.my/8874/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Kids+
-http://cdn.admuspeh.my/8454/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Little
-http://cdn.admuspeh.my/8979/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Кинозал СССР
-http://cdn.admuspeh.my/8875/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Russia 90s
-http://cdn.admuspeh.my/8980/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU VHS
-http://cdn.admuspeh.my/8908/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Action HD
-http://cdn.admuspeh.my/8876/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Cosmo
-http://cdn.admuspeh.my/8975/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Catastrophe HD
-http://cdn.admuspeh.my/8877/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Charm
-http://cdn.admuspeh.my/8978/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Comedy HD
-http://cdn.admuspeh.my/8878/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Fantastic HD
-http://cdn.admuspeh.my/8879/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU FilMystic HD
-http://cdn.admuspeh.my/8880/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU History HD
-http://cdn.admuspeh.my/8881/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Reality
-http://cdn.admuspeh.my/8910/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Marvel HD
-http://cdn.admuspeh.my/8882/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Romantic HD
-http://cdn.admuspeh.my/8884/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Stars HD
-http://cdn.admuspeh.my/8885/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU RUSerial HD
-http://cdn.admuspeh.my/8888/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Russian
-http://cdn.admuspeh.my/8457/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Сваты HD
-http://cdn.admuspeh.my/8889/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Criminal HD
-http://cdn.admuspeh.my/8890/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Cinema HD
-http://cdn.admuspeh.my/8891/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Cinema+ HD
-http://cdn.admuspeh.my/8892/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Kinorating
-http://cdn.admuspeh.my/8455/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU Survival
-http://cdn.admuspeh.my/8912/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BCU TruMotion
-http://cdn.admuspeh.my/8977/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Apocalypse HD
-http://cdn.admuspeh.my/8441/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX СССР 4K
-http://cdn.admuspeh.my/8445/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Cyber
-http://cdn.admuspeh.my/8419/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Fantasy
-http://cdn.admuspeh.my/8430/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Franchise
-http://cdn.admuspeh.my/8982/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Gangster
-http://cdn.admuspeh.my/8985/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Ghost
-http://cdn.admuspeh.my/8428/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Hybrid
-http://cdn.admuspeh.my/8983/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX M.Serial
-http://cdn.admuspeh.my/8988/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Memory
-http://cdn.admuspeh.my/8987/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Oscar
-http://cdn.admuspeh.my/8986/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Premiere 4K
-http://cdn.admuspeh.my/8452/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Remast 4K
-http://cdn.admuspeh.my/8433/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Serial
-http://cdn.admuspeh.my/8433/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Spy
-http://cdn.admuspeh.my/8354/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX ULTRASTARS
-http://cdn.admuspeh.my/8444/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Western
-http://cdn.admuspeh.my/8417/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Zombie
-http://cdn.admuspeh.my/8418/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX SportCast
-http://cdn.admuspeh.my/8447/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Relax 4K
-http://cdn.admuspeh.my/8338/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Anime
-http://cdn.admuspeh.my/8984/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX AutoTrend HD
-http://cdn.admuspeh.my/8440/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Docu
-http://cdn.admuspeh.my/8424/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", BOX Gurman HD
-http://cdn.admuspeh.my/8439/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",BOX Kosmo 4K
-http://cdn.admuspeh.my/8448/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",BOX Mayday
-http://cdn.admuspeh.my/8434/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",BOX Music 4K
-http://cdn.admuspeh.my/8990/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",BOX Travel
-http://cdn.admuspeh.my/8416/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Celebrity HD
-http://cdn.admuspeh.my/8991/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Flip UHD
-http://cdn.admuspeh.my/8404/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Love HD
-http://cdn.admuspeh.my/8328/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM NewFilm 1 HD
-http://cdn.admuspeh.my/8741/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM NewFilm 2 HD
-http://cdn.admuspeh.my/8742/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM NewFilm 3 HD
-http://cdn.admuspeh.my/8743/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM NewFilm RU HD
-http://cdn.admuspeh.my/8706/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM UFO HD
-http://cdn.admuspeh.my/8410/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM USSR Детектив HD
-http://cdn.admuspeh.my/8656/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM USSR Комедия HD
-http://cdn.admuspeh.my/8744/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Боевик HD
-http://cdn.admuspeh.my/8745/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Боевик Classic HD
-http://cdn.admuspeh.my/8411/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Драма HD
-http://cdn.admuspeh.my/8894/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM История HD
-http://cdn.admuspeh.my/8933/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Катастрофа HD
-http://cdn.admuspeh.my/8746/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Киберпанк HD
-http://cdn.admuspeh.my/8545/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Комедия HD
-http://cdn.admuspeh.my/8744/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Крутые 90-е HD
-http://cdn.admuspeh.my/8547/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Кунг-Фу HD
-http://cdn.admuspeh.my/8559/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Роскино HD
-http://cdn.admuspeh.my/8709/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Сваты HD
-http://cdn.admuspeh.my/8893/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Семейный 1 HD
-http://cdn.admuspeh.my/8442/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Семейный 2 HD
-http://cdn.admuspeh.my/8449/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Спорт HD
-http://cdn.admuspeh.my/8652/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Супергерои HD
-http://cdn.admuspeh.my/8710/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Ужасы HD
-http://cdn.admuspeh.my/8725/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Фобия HD
-http://cdn.admuspeh.my/8994/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Tom And Jerry HD
-http://cdn.admuspeh.my/8997/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM Walt Disney HD
-http://cdn.admuspeh.my/8914/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST",MM USSR Мультфильм HD
-http://cdn.admuspeh.my/8913/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Лесник
-http://cdn.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Ментовские Войны
-http://cdn.admuspeh.my/8802/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan VHS
-http://cdn.admuspeh.my/8807/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", Cartoons 90
-http://cdn.admuspeh.my/8812/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Скорая помощь
-http://cdn.admuspeh.my/8821/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan ПёС + Лихач
-http://cdn.admuspeh.my/8824/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Сваты
-http://cdn.admuspeh.my/8825/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Air Crash
-http://cdn.admuspeh.my/8826/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Симпсоны
-http://cdn.admuspeh.my/8833/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", Cartoons Big
-http://cdn.admuspeh.my/8866/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", Cartoons Short
-http://cdn.admuspeh.my/8867/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan РуКино
-http://cdn.admuspeh.my/8871/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Marvel
-http://cdn.admuspeh.my/8951/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan
-http://cdn.admuspeh.my/8952/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Thriller
-http://cdn.admuspeh.my/8954/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Melodrama
-http://cdn.admuspeh.my/8955/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Катастрофы
-http://cdn.admuspeh.my/8957/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Комедийные сериалы
-http://cdn.admuspeh.my/8958/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Top
-http://cdn.admuspeh.my/8959/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Ужасы
-http://cdn.admuspeh.my/8960/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan MiniSeries
-http://cdn.admuspeh.my/8961/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Криминальные Сериалы
-http://cdn.admuspeh.my/8772/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Военные Сериалы
-http://cdn.admuspeh.my/8574/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Фитнес
-http://cdn.admuspeh.my/8771/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan OLD 4K
-http://cdn.admuspeh.my/8804/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan CCCP 4K
-http://cdn.admuspeh.my/8795/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", CineMan Relax 4K
-http://cdn.admuspeh.my/8822/index.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Brief
-http://cdn.admuspeh.my/8568/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Evidence
-http://cdn.admuspeh.my/8569/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Exist
-http://cdn.admuspeh.my/8489/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Island
-http://cdn.admuspeh.my/8534/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Naked&Funny
-http://cdn.admuspeh.my/8570/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Psycho
-http://cdn.admuspeh.my/8483/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Series
-http://cdn.admuspeh.my/8533/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Survival
-http://cdn.admuspeh.my/8571/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Детектив
-http://cdn.admuspeh.my/8573/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 group-title="Кинозалы TEST", GoldLine Невский
-http://cdn.admuspeh.my/8501/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1  group-title="BCU",BCU FilMystic HD
-http://ronaldo.tvfor.pro/uTOLclPPwX/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Stars HD
-http://ronaldo.tvfor.pro/BQIqIOUMzE/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Criminal HD
-http://ronaldo.tvfor.pro/PUyDTRDUbe/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Cosmo HD
-http://ronaldo.tvfor.pro/WWiumlcYxe/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Media HD
-http://ronaldo.tvfor.pro/kbZcDwSdQY/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Survival HD
-http://ronaldo.tvfor.pro/CgRafBOZhs/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Reality HD
-http://ronaldo.tvfor.pro/SyhlUwtZuz/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU TruMotion HD
-http://ronaldo.tvfor.pro/FwvUiLwcqW/l6i55j264w9187bml44emph2
-#EXTINF:-1  group-title="BCU",BCU Ruserial HD
-http://ronaldo.tvfor.pro/fCBwJzbFOp/l6i55j264w9187bml44emph2
 #EXTINF:-1 group-title="Usba TV",Україна
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV",Україна 2
@@ -371,150 +99,48 @@ https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Usba TV",TikTok
 https://fl1001.bozztv.com/ushba61/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Киносвидание
+http://fs2.persik.by/Kinosvidanie/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Новое кино 
 https://fs2.persik.by/NovoeKino10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Вдохновение HD
-https://fs2.persik.by/Vdohnovenie/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МОЛОДОСТЬ
-https://fs2.persik.by/Molodost9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МОЛОДОСТЬ R
-http://fs2.persik.by/Molodost9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",В кругу семьи HD
-http://fs2.persik.by/V_krugu_semii4/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Семейное HD
 http://fs2.persik.by/Semejnoe10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ЛЕГКОЕ КИНО
-http://fs2.persik.by/Legkoe_Kino11/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Кино выходного дня
-http://fs2.persik.by/Kino_vihodnogo_dnia8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Экранизации HD
-https://fs2.persik.by/Ekranizacii13/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Известные актёры
-http://fs2.persik.by/Izvestnie_akteri6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ВИЦИН
-http://fs2.persik.by/Vicin_10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",МИРОНОВ
-https://fs2.persik.by/Mironov8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ЛЕОНОВ
-https://fs2.persik.by/Leonov_7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",АНТИСТРЕС
-http://fs2.persik.by/Kino_Antistress9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Английские субтитры
-http://fs2.persik.by/Angliyskie_subtitry6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Остросюжетные сериалы 
-http://fs2.persik.by/OstrosuzhetnieSerialy8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Топ кино 
-http://fs2.persik.by/TopKino/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",НОВИНКИ fas-tv.com
-https://fs2.persik.by/Novinki9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Киномикс 
-https://fs2.persik.by/Kino_Miks13/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",БОЕВИКИ
-http://fs2.persik.by/Boeviki_16/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ВАН ДАММ
-https://fs2.persik.by/VanDam/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Зарубежное кино
-http://fs2.persik.by/Zarubezhnoe_kino_10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Любовь и Детективы 
-http://fs2.persik.by/Lubov_Detektivi8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Путешествие во времени 
-http://fs2.persik.by/Puteshestvie_vo_vremeni11/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Фестивальное кино 
-https://fs2.persik.by/FestivalnoeKino9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Рекомендуем 
-https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Отечественное кино HD
-https://fs2.persik.by/Otechestvennoe4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Про родителей HD
-http://fs2.persik.by/Pro_roditeley9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Популярное кино 
-https://fs2.persik.by/Populyarnoe_Kino_11/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Европейское кино 
-https://fs2.persik.by/EvropejskoeKino15/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Triller
-https://fs2.persik.by/Triller1/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Триллеры-Боевики
-http://fs2.persik.by/Trillery_Boeviki7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Триллеры США 
-https://fs2.persik.by/Trillery_USA_12/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama5/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Американские комедии
-https://fs2.persik.by/Amerikanskie_Komedii_13/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Новогодние фильмы
 http://fs2.persik.by/Novogodnie_Filmy_9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ДРУЖБА
-http://fs2.persik.by/Druzhba8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Вторая мировая
-http://fs2.persik.by/Vtoraja_Mirovaja_8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ФЕСТИВАЛЬНОЕ КИНО
-http://fs2.persik.by/FestivalnoeKino9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ДАВАЙ ПОЖЕНИМСЯ
-http://fs2.persik.by/Davaj_Pozhenimsya7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",РОМАНТИЧЕСКИЕ
-https://fs2.persik.by/Romanticheskie9/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Кино по книгам
-https://fs2.persik.by/Kino_po_knigam10/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Зомби-апокалипсис 
-http://fs2.persik.by/Zombi_apokalipsis8/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Маньяки
-http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ", Аниме HD
-http://fs2.persik.by/Anime6/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ", Сказки HD
-http://fs2.persik.by/Skazki7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Детские фильмы
-https://fs2.persik.by/DetskieFilmy5/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Детские песни
-https://fs2.persik.by/DetskiePesni5/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",DJ HD
-https://fs2.persik.by/DJ5/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Ван Дамм
+http://fs2.persik.by/VanDam/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Детективное кино
+http://fs2.persik.by/Detektivnoe_Kino_8/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Европейское кино
+http://fs2.persik.by/EvropejskoeKino15/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Best clips
+http://fs2.persik.by/Best_clips1/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Concerts
+http://fs2.persik.by/Concerts4/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV DJ
+http://fs2.persik.by/DJ5/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Dance
+http://fs2.persik.by/Dance3/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Hits HD
 http://fs2.persik.by/Hits5/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",POP-ROCK HD
-https://fs2.persik.by/Pop_Rock3/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV POP Mozgi Entertainment
+http://fs2.persik.by/Pop4/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV POP-ROCK
+http://fs2.persik.by/Pop_Rock3/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Relax
+http://fs2.persik.by/Relax4/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Рок концерты
+http://fs2.persik.by/Rock_Kocerty2/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV  рок
+http://fs2.persik.by/Russkij_Rock3/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Рэп HD
 http://fs2.persik.by/Rap2/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Best clips HD
-https://fs2.persik.by/Best_clips1/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Concerts HD
-https://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by COVER HD
-https://fs2.persik.by/Sluhay_COVER2/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by EDM HD
-https://fs2.persik.by/Sluhay_EDM/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by LIVE HD
-https://fs2.persik.by/Sluhay_LIVE2/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by MOVA HD
-https://fs2.persik.by/Sluhay_MOVA2/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by RADIO HD
-https://fs2.persik.by/Sluhay_RADIO2/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay.by RAP HD
-https://fs2.persik.by/Sluhay_RAP/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Sluhay Rock HD
-https://fs2.persik.by/Sluhay_Rock/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ТЕХНО
-https://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="ПЕРСИК ТВ",Synthwave HD
 http://fs2.persik.by/Synthwave/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",КОСМОС
-http://fs2.persik.by/Kosmo7/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ДОКУМЕНТАЛЬНОЕ КИНО
-http://fs2.persik.by/DokumentalnoeKino4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",ДОКУМЕНТАЛЬНОЕ
-http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",Relax HD
-https://fs2.persik.by/Relax4/index.m3u8
-#EXTINF:-1 group-title="ПЕРСИК ТВ",MOVIE HD
-http://fs2.persik.by/Movie2/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV Сундучок Историй
+http://fs2.persik.by/Sunduchok4/index.m3u8
+#EXTINF:-1 group-title="ПЕРСИК ТВ",Persik TV ТЕХНО
+http://fs2.persik.by/Techno3/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Знову в дії(2025)
 http://ashdi.vip/video21/1/new/back.in.action.2025.ua.dub.ledoyen_160706/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Ад Вітам(2025)
@@ -593,8 +219,6 @@ http://ashdi.vip/video21/1/new/dont.f..k.with.ghosts.2024.ua.mvo.dniprofilm_1585
 http://ashdi.vip/video21/1/new/new_biography_of_xi_shi_158721/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Святоголік(2024)
 http://ashdi.vip/video21/1/new/svyatogolk_gajdamajk_157535/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
-
-
 #EXTINF:-1 group-title="KINO ZAL",Марія(2024)
 http://ashdi.vip/video21/1/new/maria.2024.ua.dub.cinemaker_159238/hls/DK6Xi36KjuxVhA75AA==/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Дівчина яка переслідує хлопця(2024)
@@ -1431,6 +1055,8 @@ http://kinoleha.net/load/prizrachnaja-shesterka
 https://kinoleha.net/player/missii-nevypolnimy-smertelnye-rasplaty.mp4?original
 #EXTINF:-1 group-title="KINO ZAL",Неудержимые 4 Картинка норм
 https://o8.anwap.be/ohls/YyDJa2emgITeHkmvgloPFw/1695348875/Neuderzhimyee_4-39418_(anwap.org).m3u8
+#EXTINF:-1 group-title="KINO ZAL",Засекречено 2024
+https://kinoleha.net/player/zasekrecheno.mp4?original
 #EXTINF:-1 group-title="KINO ZAL",Скрытый удар (2023) Джеки Чан
 https://kinoleha.net/player/skrytyj-udar.mp4?original
 #EXTINF:-1 group-title="KINO ZAL",Кунг-фу жеребец (2023)
@@ -1445,6 +1071,8 @@ https://kinoleha.net/player/bessmertnyj.mp4?original
 https://kinoleha.net/load/chelyusti-stolknovenie?original
 #EXTINF:-1 group-title="KINO ZAL",Трансформеры Восхождение Зверороботов 2023
 https://kinoleha.net/player/voshozhdenie-zverobotov.mp4?original
+#EXTINF:-1 group-title="KINO ZAL",НЕВДАХИ (НЕВЕЗУЧИЕ)2003
+https://jk19ocmjeoyql3tj.ashdi.vip/content/stream/new/taistoi_2003_bdrip_1080p_h.265_ukr_fre_hurtom_73696/hls/720/index.m3u8
 #EXTINF:-1 group-title="KINO ZAL",Коллекторы 2 2020 (Скотт Эдкинс)
 https://marionetka.com/player/kollektory-2.mp4
 #EXTINF:-1 group-title="KINO ZAL",Каникулы наёмного убийцы 2022 (Скотт Эдкинс)
@@ -1457,6 +1085,364 @@ https://v.mover.uz/4r9iEFBY_m.mp4
 https://v.mover.uz/FduWmrcs_m.mp4
 #EXTINF:-1 group-title="KINO ZAL",Мистецтво на війні (Док.фільм)
 https://e12p.starlight.digital/get-playlist/hls-vod/files/29/62/2426229/mq.mp4/index.m3u8
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-26/f4/6c/f46c0a948fdbcf3b68d2ae62fae6c291.jpg", Путь рыцаря (2025)
+https://river-1.rutube.ru/hls-vod/hZUsIjS7olMxgTaQGMlW6Q/1742063885/2542/0x5000039ce860f7e1/5cee0d09d16348339bb26c05d8bfeafe.mp4.m3u8?i=1920x800_1320
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-04/02/4c/024ca0f3e1095e32a7823a96103a07fd.jpg", Догмен: Пушистая справедливость (2025)
+https://river-1.rutube.ru/hls-vod/FrQtTimtuQfXPzbcca1klA/1742063886/2584/0x5000039ce8696d19/4903fcf9cad948acaff3a4db0f1e5c60.mp4.m3u8?i=3840x2072_7136
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-14/91/18/9118994083eb6b404b3dcc8e3c1e9b19.jpg", Питомец Юрского периода (2024)
+https://river-1.rutube.ru/hls-vod/ge0qI0epb5JjKtQKig2hoA/1742063887/2574/0x5000039ce838cf55/b13f75f7261e40aea78be94d1700331d.mp4.m3u8?i=848x360_1413
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-26/a4/87/a487510507363e0e8e554c8be9670d92.jpg", Любовь — боль (2025)
+https://river-1.rutube.ru/hls-vod/YxE-u1yhNozujAeRyVAydg/1742063888/2600/0x5000039ce86a0721/a14450c6e71e4117b8cd6edac4989f09.mp4.m3u8?i=1920x1080_8135
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-03/88/8c/888cdd7a67b180b64c6c124e65352a9d.jpg", Парни с тату Прямо в сердце (2025)
+https://river-1.rutube.ru/hls-vod/ipLhKz74EWQHNjmhPlQecQ/1742063889/2576/0x5000039ce8380721/7b2c73ab61ed47e4836bec17b7f0c4e4.mp4.m3u8?i=1920x800_7777
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-06/bb/64/bb64465e0ef6889326ec17db4f70106e.jpg", Снайпер: Последняя битва (2024)
+https://river-1.rutube.ru/hls-vod/Jf47rxqvZ3VNjaXt1j-UNA/1742063890/2564/0x5000039ce840272d/6c63ac7545394ea8937f7832365d9765.mp4.m3u8?i=1920x960_7748
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-06/54/d9/54d908232ba8a37b2efc43457550eaf7.jpg", Влюблённые глаза (2025)
+https://river-1.rutube.ru/hls-vod/Oj85NnKMNx6ldfYAZEMzAQ/1742063891/2518/0x5000039ce83a1d39/d67d289ac41e479ba4e77da8649cc13b.mp4.m3u8?i=1920x800_6643
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-07/08/f0/08f0ad5b80ced86aac18a7b6a3560a6a.jpg", Шелдон Планктон: Фильм (2025)
+https://river-1.rutube.ru/hls-vod/dJ-1CSlIQnmehARbojItSw/1742063892/2580/0x5000039ce839b86d/d0a8cfb08c6643f2a0d7f7ea8cbc68c3.mp4.m3u8?i=1920x1080_4288
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-03-08/f7/ca/f7ca25347ac4a243af3e82bc70ab7f07.jpg", Вкусняшка (2025)
+https://river-1.rutube.ru/hls-vod/grntHLg--ly-h8iZe4RLyg/1742063893/2574/0x5000039ce838b80d/87e72a84feff49c2865e3e18231f1908.mp4.m3u8?i=1920x1080_4330
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-16/dd/a6/dda653617edb05270664d366d2e9f4d8.jpg", Красавчики (2024)
+https://river-1.rutube.ru/hls-vod/7Kqd6CbiVG_eg7N8I_Nxng/1742063894/2560/0x5000039ce8635859/fd372a48fadd46abac0dd2f8579ef4c0.mp4.m3u8?i=1920x1080_3198
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-18/07/72/07725a1a9b81158b2368c00c21e6e3e0.jpg", Репликатор (2024)
+https://river-1.rutube.ru/hls-vod/0nDzgmC4mC2B6GQIf5G9Bg/1742063895/2558/0x5000039ce83806b5/92a82f914e734278b2aa8919a9dd4475.mp4.m3u8?i=1920x800_1365
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-21/64/7f/647f4ae2f86c3fe7c3ddc81170e23e90.jpg", Семя священного инжира (2024)
+https://river-1.rutube.ru/hls-vod/KfvQaPJDCBaaIe8qbQg2fg/1742063896/2632/0x5000039ce83bf579/52ee9803fa0a407aba3039132e96bf4b.mp4.m3u8?i=1920x800_983
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-18/09/7d/097d0c38f6f54e9c08e8046a93601770.jpg", Компаньон (2025)
+https://river-1.rutube.ru/hls-vod/Aofb0LrWhWOrXQS576T5DA/1742063897/2520/0x5000039ce83829cd/0c0065016bb34481bb20edf4a121bb1b.mp4.m3u8?i=1920x800_1747
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-22/e4/b8/e4b82e8d0ee1383adf8deb8fe03bc4ac.jpg", Бруталист (2025)
+https://river-1.rutube.ru/hls-vod/hZkuz3DGvJfFELh-JqTdDA/1742063898/2632/0x5000039ce86388f5/9fdd1ff5b8eb430c92dc676dc8d596ac.mp4.m3u8?i=1792x1080_2485
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-04/2f/31/2f31a213fd82c5bc6ebd360720d9fc0c.jpg", Год 10 (2024)
+https://river-1.rutube.ru/hls-vod/5c4GfpCqYEDwCBdeyvr7rg/1742063899/2594/0x5000039ce85929a5/ee7c6e510cbd456facab11c671b1c2c3.mp4.m3u8?i=1920x800_5023
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-13/31/57/3157c70fa1b2e7699c964e45e04f9b7b.jpg", Заклятие: Реинкарнация отца (2024)
+https://river-1.rutube.ru/hls-vod/_9BYSxlMKr6cZRct6bvLdg/1742063900/2512/0x5000039ce832cb05/69908f93a31747d2b17c8436431be3d1.mp4.m3u8?i=1920x1080_3950
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-17/ef/af/efaf7b9beac512425ff3e5d0ce7b0b18.jpg", Мёртвая сущность (2024)
+https://river-1.rutube.ru/hls-vod/HD88bne9NgH97AUFXrpQMw/1742063900/2614/0x5000039ce8636a25/818dfc940dbe43cfa8180faea0bad765.mp4.m3u8?i=1920x1040_7897
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-17/fc/67/fc67b2a293fc53f949bc32efd089233c.jpg", Принцесса и тайна гоблинов (2024)
+https://river-1.rutube.ru/hls-vod/0cmaPou1BwlkX5sEIBBIfw/1742063901/2622/0x5000039ce86941b1/8ba1d42102bb4a2d84821afcd15eb43a.mp4.m3u8?i=1920x816_7020
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-17/48/8d/488d91bafc8ce5c5000790b0d0dc0fbc.jpg", Мальчишки из Никеля (2024)
+https://river-1.rutube.ru/hls-vod/vPERbH7f72IHvLSpKXxZew/1742063902/2616/0x5000039ce83a17fd/adec20e0660d4a5e8f2d5c69e3a91ed9.mp4.m3u8?i=1920x1080_7664
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-18/62/5c/625cc01d389955e76bdd7e454834461d.jpg", Твоя вина (2024)
+https://river-1.rutube.ru/hls-vod/94fudPiBAVz290GwiAR6mQ/1742063904/2586/0x5000039ce818320d/a666735eb4bf42a6880bab4fc0ce1fe6.mp4.m3u8?i=1920x960_7778
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-17/86/6d/866d3a5dffc729c696e93fe1438ae3c2.jpg", Настоящая боль (2024)
+https://river-1.rutube.ru/hls-vod/3ws6Hhil_TacYmJpHHNb9g/1742063905/2510/0x5000039ce83838e1/8e05a2c9136e40c49a901c22a6681ca7.mp4.m3u8?i=1920x1040_7977
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-19/3f/f8/3ff89da3921df6eb5bd0f82216704693.jpg", Робин Гуд и хранители леса (2024)
+https://river-1.rutube.ru/hls-vod/lhkRIbo0UPhSfSqcndJUVw/1742063907/2618/0x5000039ce8686475/9570587923ef4879b410c17e3274226f.mp4.m3u8?i=1920x1080_7831
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-21/bc/04/bc04a5ddb8d14aed40c49bcdf339eb0a.jpg", Люби меня (2024)
+https://river-1.rutube.ru/hls-vod/kcOp2nA9VrwlihoQDSlGXQ/1742063908/2562/0x5000039ce83a30b5/32c6930cf0fb4cd3840c07c93f63d23a.mp4.m3u8?i=3840x1600_5873
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-22/29/6d/296db3390587642563fe0133cefa2b9f.jpg", Миллеры в браке (2024)
+https://river-1.rutube.ru/hls-vod/RqZWU8S9g48m0sMdGW-EEQ/1742063909/2572/0x5000039ce833db19/7b9188efbdc64100badfc214e73560df.mp4.m3u8?i=1920x1080_7442
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-08/7a/a8/7aa8c542b45c7721dee0e81626ec9b9f.jpg", Жертвы (2024)
+https://river-1.rutube.ru/hls-vod/cvhGlpYM5m3Q3HRt3wYAYQ/1742063911/2540/0x5000039ce8399cb1/f30605943c1546bdb32da4ca662aa707.mp4.m3u8?i=1920x1080_1953
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-04/78/8e/788e4dff0e8d3bbf2ac151d5f7aff8b6.jpg", Темная ночь души (2024)
+https://river-1.rutube.ru/hls-vod/x8etMPPuY-FwJuMeWSHZGA/1742063913/2546/0x5000039ce869ad7d/60bf118ad8574345bcb5234b232675c9.mp4.m3u8?i=1280x720_1780
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-08/f2/fb/f2fb9e1545230e2d53ff0e8a2f0de655.jpg", Кид Сноу (2024)
+https://river-1.rutube.ru/hls-vod/dO2tjFycET0jzU9iSi9kjA/1742063914/2580/0x5000039ce862bd31/5592a90e4dab424ba803d6583ff9f23b.mp4.m3u8?i=1920x1080_1943
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-08/bf/cc/bfcc36432b295bb375def2601a66202e.jpg", Ферма (2024)
+https://river-1.rutube.ru/hls-vod/B5lFMMugzTyjuKdylt7MBw/1742063915/2616/0x5000039ce83a17fd/0184b102fb06451ea1c880322619b55c.mp4.m3u8?i=1920x800_1907
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/bc/20/bc20275f7c65fec3fb39613c79343840.jpg", Вышибала (2024)
+https://river-1.rutube.ru/hls-vod/q5z2I46FKujIWq0B27aSpQ/1742063917/2542/0x5000039ce8382a05/b1071256828248ac8bbde6e79d9cdd61.mp4.m3u8?i=1920x1080_7805
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/c3/f5/c3f5f0e7958f45223b60069ca68084a5.jpg", Пятачок -  Возвращение (2024)
+https://river-1.rutube.ru/hls-vod/o5UZtF6_uKk194jFr40aPQ/1742063918/2502/0x5000039ce8703681/c93f4f371f434f39873482e42a59648c.mp4.m3u8?i=1920x1080_3372
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/97/37/9737776f4f05a82871c83286495808bb.jpg", Как бы беременна (2025)
+https://river-1.rutube.ru/hls-vod/jr3A-GfzSsu6o85FGTlRMA/1742063920/2502/0x5000039ce8382871/adaa4754089346219a271fa75e92d5ef.mp4.m3u8?i=1920x1080_4591
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/4c/49/4c49599f57d910f78df44c76865a1452.jpg", Дыши! (2024)
+https://river-1.rutube.ru/hls-vod/-xphD1EbMcHoVPi-HFcXzw/1742063922/2584/0x5000039ce8623ff9/f33034498af647c8bd0e2091603bdcc5.mp4.m3u8?i=1920x800_7979
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-09/89/b5/89b5f36dda4d23fdded9e9f854072dda.jpg", Кровавая звезда (2024)
+https://river-1.rutube.ru/hls-vod/y6ishJpSTlpo7_nRetjO3g/1742063923/2550/0x5000039ce8638b51/37dc5fb62c054b0c9d98feb26b9ac173.mp4.m3u8?i=1920x800_4365
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-03/99/f6/99f60860c009c6cf8b5684b6badc055d.jpg", Девушка с иглой (2024)
+https://river-1.rutube.ru/hls-vod/xiAG018oqorLldTYS7HXNA/1742063925/2562/0x5000039ce870886d/0a215419f1de4f8e8a29bfbc25bfdbb3.mp4.m3u8?i=688x480_624
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-03/a0/82/a082b2533451f094eb5dc4522d078d54.jpg", В пути (2024)
+https://river-1.rutube.ru/hls-vod/AHPUVlK2J0vz8NU2k12cvQ/1742063926/2512/0x5000039ce8691a19/fc41224dd8404dc1be22a904dac3d4b0.mp4.m3u8?i=1920x800_1939
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-03/5c/73/5c738bbc117932d5b08bddfa417dff2b.jpg", Мы были опасны (2024)
+https://river-1.rutube.ru/hls-vod/u85gnfr0GRwZOUQNqQ6bSQ/1742063928/2552/0x5000039ce8337e15/864fa9bdd2114f029fbee753cf8be277.mp4.m3u8?i=1920x1080_2714
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-03/2a/60/2a60492b7da98e3e9a4505c51e5cbf86.jpg", Пропала пара (2024)
+https://river-1.rutube.ru/hls-vod/kku99UzyBR5Ahi3Cth4KWg/1742063930/2570/0x5000039ce86193e5/6eeb376858dc4ef1b17486ff8a2bc2e7.mp4.m3u8?i=848x480_1547
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-04/d7/fd/d7fd1cffbfba4e4f494f474726366a59.jpg", Ночные разговоры (2024)
+https://river-1.rutube.ru/hls-vod/KPsvq5ZbQHU54wc6bsBMeg/1742063931/2634/0x5000039ce868fe29/ef39c4724ab745569c0d5685e522e209.mp4.m3u8?i=1920x816_2082
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-30/07/6f/076ff50eba50aa354ec16978916ef80d.jpg", Звёздный путь: Секция 31 (2025)
+https://river-1.rutube.ru/hls-vod/GLFT32POSe3a-E7nNF3a7Q/1742063933/2584/0x5000039ce86946a9/3aa2bd8ec851476da58f85e03fab9fae.mp4.m3u8?i=848x352_867
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-03/a2/24/a224b1eb7a3205b0ccc94512366f11b4.jpg", Убийства в Беар-Лэйк (2024)
+https://river-1.rutube.ru/hls-vod/kmVgpV2A6-nAwz1YuAzdIQ/1742063934/2614/0x5000039ce868a209/f3208ffb1ff643acb2da0d4b294026b2.mp4.m3u8?i=848x480_773
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-02/d9/3c/d93ce958561099dedfee378761f3029f.jpg", Дурдом (2024)
+https://river-1.rutube.ru/hls-vod/kxt8Uhoigl1TEHls_LHTrg/1742063935/2556/0x5000039ce8383851/947866330f1d44849d0528d08b24efa9.mp4.m3u8?i=1920x1080_4107
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-05/d0/f1/d0f1f544dba8e165371879d2e956c708.jpg", Человек-волк (2025)
+https://river-1.rutube.ru/hls-vod/UFeKyQK4nwNpDXKWcVgF4g/1742063936/2510/0x5000039ce8626f55/3d803a78751f4b1ab87aa1bdf77bf9b8.mp4.m3u8?i=1920x1080_1174
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-05/4b/44/4b4492cb88ef6df3d279d34631a6345c.jpg", Поле (2024)
+https://river-1.rutube.ru/hls-vod/SQPIZ2QqAdF2NwtLavag_Q/1742063938/2612/0x5000039ce8401951/f13923bf6b634dc89d9618c13940b950.mp4.m3u8?i=1920x1080_3190
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-22/bc/be/bcbe7a8978661f61869211961801695c.jpg", Санрей: Павший солдат (2024)
+https://river-1.rutube.ru/hls-vod/u7CVwuJMPDiTBPUG0mqWEg/1742063939/2456/0x5000c500e88319c1/1f79f8bc30194ccbb549a5489a91f07d.mp4.m3u8?i=1920x800_2032
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-22/2e/42/2e4245e1840cf805513d9dbe42a9c180.jpg", Сломанная птица (2024)
+https://river-1.rutube.ru/hls-vod/PZVcqrCENOk5v8zqVOZkHw/1742063941/2578/0x5000039ce840390d/0801a450b15a49dfb267818252c38dbd.mp4.m3u8?i=1280x536_884
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-22/f2/b3/f2b3cc11f199ce912f541e5a891cf494.jpg", Искусство восьми конечностей (2024)
+https://river-1.rutube.ru/hls-vod/CItziZpJoSV9ePLrTgiKUw/1742063942/2502/0x5000039ce83804fd/4f1233ca138c40a6a545503bf58db11e.mp4.m3u8?i=1920x800_3005
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-23/c5/8b/c58b510730852fee94d9daa4e08fb24d.jpg", Горная невеста (2024)
+https://river-1.rutube.ru/hls-vod/dKqlQa26eWBpBc7lQCU67w/1742063944/2504/0x5000039ce8706c7d/3de30b0c1ca74cb993a5c0b987a0ea73.mp4.m3u8?i=1920x1080_2423
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-23/01/26/0126a491538ba3b3201b781675732be2.jpg", Неукротимый (2024)
+https://river-1.rutube.ru/hls-vod/gOYrH6QeAe8M8wpwWU8-sQ/1742063946/2576/0x5000039ce833a301/36957a0ef0b842b2ae00789530c1259b.mp4.m3u8?i=1920x800_3435
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-27/de/3d/de3dc57018d4a2d0c12a0e4a8e99b134.jpg", Незваный гость (2024)
+https://river-1.rutube.ru/hls-vod/IfwFG44yAfYEDJsdMtATxA/1742063947/2604/0x5000039ce863a5c1/bc417c6c988b47ae8eb633b981847202.mp4.m3u8?i=1920x1080_1321
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-27/85/5a/855a51ac7cd31c443b5898ab7127cea8.jpg", Детки-убийцы 3 (2024)
+https://river-1.rutube.ru/hls-vod/1-VlBzR7K6dVowl-40MWaQ/1742063949/2566/0x5000039ce83bbc85/380cb867e4b544dfb5c9cca39887d39a.mp4.m3u8?i=1920x1080_2578
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-27/dd/e2/dde2099370105b9a98f65b9ee0d3eff3.jpg", Царство 4: Возвращение генерала (2024)
+https://river-1.rutube.ru/hls-vod/PS-3otfCmJTZlqrHLOaM5w/1742063951/2548/0x5000039ce8406325/7b72bc5b649c4a6c828e14ed4beeb44d.mp4.m3u8?i=1920x1080_2239
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/d3/78/d3789040d3aff26e0de2d270d4882aa4.jpg", Полицейский из Беверли-Хиллз: Аксель Фоули (2024)
+https://river-1.rutube.ru/hls-vod/A4jMu3Od2tsLNm6oPFO-bw/1742063953/2189/0x5000c500e6a48d5c/a6043289d9bb4d6b94e15443b2f312ee.mp4.m3u8?i=1920x1080_3033
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/71/0b71b82068ed65a8eddb8586216af076.jpg", Властелин колец: Братство Кольца | Режиссёрская версия (2001)
+https://river-1.rutube.ru/hls-vod/KZqGWx3sTACJW2__E48zEA/1742063954/2088/0x5000c500f1d65693/39a841bc94a1467480fe1e7475986612.mp4.m3u8?i=1920x800_3030
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/71/ba/71babe2ceb2b44fb320410d5ed1bc055.jpg", Властелин колец: Две крепости | Режиссёрская версия (2002)
+https://river-1.rutube.ru/hls-vod/yHysfiS8El0LR1M6EijFqw/1742063956/2078/0x5000c500f1e59b02/d0f2431fa0514c18a922acc12c11863a.mp4.m3u8?i=1920x800_4143
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/5a/25/5a25a8d38e22801b808b794e9aea016a.jpg", Властелин колец: Возвращение короля | Режиссёрская версия (2003)
+https://river-1.rutube.ru/hls-vod/oHmN07p3Plab2jY6pl2Pzg/1742063957/2092/0x5000c500f1dc587c/0a24ef3899be43119b61835e67788fd9.mp4.m3u8?i=1920x792_4355
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/71/0b71b82068ed65a8eddb8586216af076.jpg",Властелин колец: Братва и кольцо (2001) Гоблин / Д.Пучков /озвучка
+https://vod.plvideo.ru/xdhKhqAx/uknUrzHzQA/YI8o3Nth2IH0107PNDp/ZX
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/71/0b71b82068ed65a8eddb8586216af076.jpg",Властелин колец: Две сорванные башни (2002) Гоблин / Д.Пучков /озвучка
+https://vod.plvideo.ru/FbZEopwh/uknUrzHzQA/YI8o3NtJ6fzXPVTS5PB/ZX
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/71/0b71b82068ed65a8eddb8586216af076.jpg",Властелин Колец: Возвращение Бомжа (2003) Гоблин / Д.Пучков /озвучка
+https://vod.plvideo.ru/GMPb65uk/uknUrzHzQA/YI8o3NtW5cDU36sFodA/ZX
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/47/f4/47f4ad22f5bd2daacffc56be4603428c.jpg", Бэтмен (1989)
+https://river-1.rutube.ru/hls-vod/THSbZKZlPplpG38IcYH4Kw/1742063959/2076/0x5000c500f1e31216/36a7874b57634ef2ac1e1e72d4c152b8.mp4.m3u8?i=1920x1080_3401
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/5e/4f/5e4f6a1496112ebf58f7e3a6bc1c846d.jpg", Бэтмен Возвращается (1992)
+https://river-1.rutube.ru/hls-vod/_PGJ5FpzefTe53c034GvJA/1742063960/2084/0x5000c500f1d96f55/0cf08fee2f814713b1d8ba60ad0ad505.mp4.m3u8?i=1920x1080_5059
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/05/76/05766873f73a3a810d30a8e4db8c7b62.jpg", Бэтмен Навсегда (1995)
+https://river-1.rutube.ru/hls-vod/FsGK_9Sg_JHULSeOtxcxOA/1742063962/2092/0x5000c500f1dcd48c/384306e8b72e4734ac3656e6a6c10440.mp4.m3u8?i=1920x1080_3754
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b3/86/b3863a80c055bb3d51591ba2684f2861.jpg", Бэтмен и Робин (1997)
+https://river-1.rutube.ru/hls-vod/ZL_eMrZ1qnrKGjEW1jNLgw/1742063963/2088/0x5000c500f1e58f7d/45a2f783a0564d9f90769a0d920c4890.mp4.m3u8?i=1920x1080_4413
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/a7/57/a757c72e223b514ba1373600689841be.jpg", Бэтмен: Начало (2005)
+https://river-1.rutube.ru/hls-vod/lcbhl42GiC6Yl3yKGgSlOw/1742063965/2088/0x5000c500f1e4fc47/dac0e519b6da4660bb8a8b475923691b.mp4.m3u8?i=1920x800_2262
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/1a/99/1a9953fefa5c722099499648fb29bf70.jpg", Темный рыцарь (2008)
+https://river-1.rutube.ru/hls-vod/jOEV_i4nLug0KHUgXFOuqQ/1742063966/2080/0x5000c500f1da748a/d5263d18a7804f0ca327eef990f75fc0.mp4.m3u8?i=1920x1080_3481
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0a/aa/0aaa60d1f98fb774e663ceeabda3ce71.png", Темный рыцарь: Возрождение легенды (2012)
+https://river-1.rutube.ru/hls-vod/aEg3Acew3Ppi8Sx9X6TkRw/1742063968/2082/0x5000c500f1df30f5/b032f3c59d794f938e46c3265b34f92a.mp4.m3u8?i=1920x1080_3262
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/cd/d6/cdd6a943c56cb91acb29eef176a235bf.jpg", Бэтмен (2022)
+https://river-1.rutube.ru/hls-vod/UUSQdfqJ0ZF_jaYjf1GCug/1742063969/2086/0x5000c500f1e56de3/9de2911dea204690ac0b1188951639ca.mp4.m3u8?i=1920x808_1744
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/fc/91/fc91c05aee140f8480be3d13d7c4291a.jpg", Бэтмен против Супермена: На заре справедливости (2024)
+https://river-1.rutube.ru/hls-vod/lLk3CVF8yL_kre4WqbLotg/1742063970/2074/0x5000c500f1da6e43/57645a3242bc4249b4a911fb85a7f290.mp4.m3u8?i=1920x800_2235
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ef/6b/ef6b1dbbb66a58f5b8d288e9fb80457e.jpg", Индиана Джонс: В поисках утраченного ковчега (1981)
+https://river-1.rutube.ru/hls-vod/6gRO_mapD6PiTDtLSM5xTA/1742063972/2080/0x5000c500f1e3749d/c52ff8bb90904a49b0d272ac65e2f496.mp4.m3u8?i=1920x816_4502
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/e7/28/e728a99cc0c3d14734727f5591b48817.jpg", Индиана Джонс и Храм Судьбы (1984)
+https://river-1.rutube.ru/hls-vod/wVN79d4HacnY-auy38tAKg/1742063973/2088/0x5000c500f1e14287/1533f43905004dc8ae06e74af4e9e9fd.mp4.m3u8?i=1920x816_6669
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/91/1a/911ab7e6cea9c7b3b52ce6313c5b92b1.jpg", Индиана Джонс и последний крестовый поход (1989)
+https://river-1.rutube.ru/hls-vod/SgkQyY9USEvoiEw47TBGzw/1742063975/2076/0x5000c500f1e52299/f599e848539a4da195a2220ec603b38b.mp4.m3u8?i=1920x816_10173
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/a8/04/a8043ef5fb7650aa4287646e3535c146.jpg", Индиана Джонс и Королевство хрустального черепа (2008)
+https://river-1.rutube.ru/hls-vod/dX78ZfgAJcgxjXz2-ttf8A/1742063976/2086/0x5000c500f1e563e5/3e0ceb5ffaad405b8f09c6b5a30e46f9.mp4.m3u8?i=1920x800_4764
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/60/5f/605f07a36213699a71be34788e261981.jpg", Индиана Джонс и колесо судьбы (2023)
+https://river-1.rutube.ru/hls-vod/UwABxOVUYiM1c-S0qzag0w/1742063978/2078/0x5000c500f1e56958/6b6697d524144fe4a099b16ef6a7d590.mp4.m3u8?i=1920x800_3131
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/82/06/8206bf25a441e4c2bac79dea9ed52074.jpg", Кровавый алмаз (2006)
+https://river-1.rutube.ru/hls-vod/Cvh2qYXgGRQ99BTkebnGLA/1742063980/2084/0x5000c500f1e5abcf/a373f1095d4f459f840d8bb603ce594f.mp4.m3u8?i=1920x792_3772
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ae/96/ae967a3688ae726d15f5ea01cc73c855.jpg", Лига выдающихся джентльменов (2003)
+https://river-1.rutube.ru/hls-vod/abqH8K3tfr_MAblWvm1U_g/1742063981/2189/0x5000c500e65678c9/77bba4322c02486f922690a587c089c1.mp4.m3u8?i=1920x808_3115
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/a8/d8/a8d8cb9c34da8064875014f105129d95.jpg", Блэйд (1998)
+https://river-1.rutube.ru/hls-vod/lSeTcdruMOMmlTpT3kNaUQ/1742063983/2082/0x5000c500f1db4f74/77930ec2cb98415689e265c5c1d99f40.mp4.m3u8?i=1920x808_3370
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/86/64/8664f8a0ff2259b701acb498bad1a2e3.jpg", Блэйд 2 (2002)
+https://river-1.rutube.ru/hls-vod/XoYWiw_RRAaMLXg_abxnEw/1742063984/2092/0x5000c500f1dc6662/27419ebf67ba468cb8dde37e95a3f61c.mp4.m3u8?i=1920x1080_3246
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b2/72/b272a4e0a0d2d5211e61fd162ce9f76e.jpg", Блэйд 3 (2004)
+https://river-1.rutube.ru/hls-vod/YrIBYY7JRUbgWtmrXOvgLQ/1742063985/2074/0x5000c500f1e5627b/6d6c325d5f2448ecb6d766a7b3306cb5.mp4.m3u8?i=1920x816_2862
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/c0/a4/c0a413d8798f37a59828943a7c0b563c.jpg", Робокоп (1987)
+https://river-1.rutube.ru/hls-vod/M7Yxo-9_QRtB53u0VQoWXw/1742063987/2086/0x5000c500f1e579b3/b7236552664a4a8dae918093c2ce013f.mp4.m3u8?i=1920x1040_5794
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/34/bc/34bc4a61f719e39cae726d4c7e1df7c1.jpg", Робокоп 2 (1990)
+https://river-1.rutube.ru/hls-vod/B62HOlDQfDCcS-kWmUuaSg/1742063988/2092/0x5000c500f1df2daa/c5e81bd24deb4eff9589b0d79f0b9bc4.mp4.m3u8?i=1920x1040_3800
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/43/15/431577ddd04e2f8cecf714daab2e7c3e.jpg", Робокоп 3 (1992)
+https://river-1.rutube.ru/hls-vod/RAZ219tNLrB2Syco56U5qA/1742063989/2096/0x5000c500f1e59a45/cec8171628cd44858da5e5e8c08731fb.mp4.m3u8?i=1920x1040_3042
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/5b/0c/5b0cf95b728de333cfba7d1f9e685f4f.jpg", Обитель зла (2002)
+https://river-1.rutube.ru/hls-vod/wil31ik5sWjB4YZulyTKcQ/1742063991/2076/0x5000c500f1d3b626/5b6ce3dbdf634277b00fae168c74a541.mp4.m3u8?i=1920x1040_3775
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0a/d5/0ad5a42e00a6b32effd2235b04d2dbcc.jpg", Обитель зла 2: Апокалипсис (2004)
+https://river-1.rutube.ru/hls-vod/iPI3jV4Y0Be9GUlpPIFDnw/1742063992/2076/0x5000c500f1e405ef/aeb8795f6f5c4d8e929a461e7028bf26.mp4.m3u8?i=1920x792_4058
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/47/9d/479d3e5529773d965e4f08a9f5c5a87e.jpg", Обитель зла 3 (2007)
+https://river-1.rutube.ru/hls-vod/BjpPRXIoSL01w8fk9VOIkg/1742063993/2076/0x5000c500f1e31400/8aeb9ea933534391ae8695f37e00ca81.mp4.m3u8?i=1920x800_4510
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2b/53/2b533e8ecbff8e2336908608ce748395.jpg", Обитель зла 4: Жизнь после смерти (2010)
+https://river-1.rutube.ru/hls-vod/T7unSeqdOMazAUWP1Eqe-w/1742063995/2076/0x5000c500f1e4c974/07657c479fec47d69474a2638db9ebbe.mp4.m3u8?i=1920x800_4046
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/1f/f2/1ff221182cf4a55b95a6b623c878adec.jpg", Обитель Зла: Возмездие (2012)
+https://river-1.rutube.ru/hls-vod/Qy4KunCLI63jqHMrkNpRVw/1742063996/2094/0x5000c500f1e5b4c4/b563a3f7a16f4c4485d963abe4098a89.mp4.m3u8?i=1920x800_7683
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/73/50/73505682c824e3a91b567a07b7a38938.jpg", Обитель зла: Последняя глава (2016)
+https://river-1.rutube.ru/hls-vod/LUM7Wja0KJZBzI5Yoli59g/1742063998/2076/0x5000c500f1e31400/083a5dd97c6747489ef3698d875f7b62.mp4.m3u8?i=1920x800_2958
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/85/b7/85b75134c7b23c1df45732018fdf1556.jpg", Терминатор (1984)
+https://river-1.rutube.ru/hls-vod/TeGt-9h1nxm59_NM6GWspw/1742063999/2094/0x5000c500f1dd6d05/f8c016d4d0ef453293eea58a2615a842.mp4.m3u8?i=1920x1040_5058
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/90/73/9073297c9a3ed329bf8c2a2891bd9f45.jpg", Терминатор 3: Восстание машин 60 fps (2003)
+https://river-1.rutube.ru/hls-vod/dA80hNloGKfd0sp69OS43A/1742064000/2470/0x5000c500e883ba7e/ba92cb112ca240ccaa80e325b8ee50a1.mp4.m3u8?i=1920x784_8583
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2a/e6/2ae62fa4e0a0ae33b1dcbe4e45bf05c6.jpg", Терминатор 4: Да прийдет спаситель (2009)
+https://river-1.rutube.ru/hls-vod/hlGtU2u4V18IYLU1gEd8Zw/1742064002/2094/0x5000c500f1db122f/1d3b3734284f473fbcd923f9ddc2d817.mp4.m3u8?i=1920x800_3637
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b6/bb/b6bb9eb90c61172c7fe0ee64d8489d99.jpg", Люди в черном (1997)
+https://river-1.rutube.ru/hls-vod/-r9QUHRjjaG-EI5oDgYMlw/1742064003/1861/0x5000c500e53c916b/0f27da6c54774499be1c5cc4691734a3.mp4.m3u8?i=1920x1032_10882
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/4b/06/4b06cb6ef3c6426cf417908452638a28.jpg", Матрица (1999)
+https://river-1.rutube.ru/hls-vod/IQM58LEHsOUfvtwHLr-efQ/1742064005/2092/0x5000c500f1db0e75/2cfaad81a8dc452b92c9f0a99d35f0e9.mp4.m3u8?i=1920x800_3057
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/8c/15/8c157f869113d619f81e7ab0e9aa98c2.jpg", Матрица: Перезагрузка (2003)
+https://river-1.rutube.ru/hls-vod/qXFY2BzwCegkmz77VcZlYg/1742064006/2074/0x5000c500f1df3421/e198f30b21ba41fda5038630ace6030c.mp4.m3u8?i=1920x800_2965
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/72/35/72352bf2ab14f352dd59028e8fa88cba.jpg", Матрица: Революция (2003)
+https://river-1.rutube.ru/hls-vod/tKoJiyCUj4J46HOgU2n9ZA/1742064007/2086/0x5000c500f1d8b72b/a7bb4b89a5ae48a293f77d27baf276f9.mp4.m3u8?i=1920x800_3406
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/52/6e/526eff8fe10ab2210d8eccd7b1301650.jpg", Матрица: Воскрешение (2021)
+https://river-1.rutube.ru/hls-vod/0WSigulyYbwi8PSsFEbv8A/1742064008/2090/0x5000c500f1e363b1/3d2c7b8be89044ffb958d07906b4f592.mp4.m3u8?i=1920x800_2781
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/7f/a6/7fa6ee03564a66ddd37676c7cd6e2912.jpg", Смертельное оружие 1 (1987)
+https://river-1.rutube.ru/hls-vod/bWcVuL94uis0f9ANFoDkjw/1742064010/2078/0x5000c500f1dd70fe/4e75229a5c424a98b18e9acf1eaafa6d.mp4.m3u8?i=1920x1080_7279
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/8d/8b/8d8bd68d4691310f46248f5badb9c0df.jpg", Смертельное оружие 2 (1989)
+https://river-1.rutube.ru/hls-vod/3cQ_p4ZdCG4Q5n-_dV4Wdg/1742064011/2078/0x5000c500f1e50e46/8e00639e9be74efe821523ef944f4163.mp4.m3u8?i=1920x800_2559
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/f0/b0/f0b0014c0b4abc1f524db4f624f3cd39.jpg", Смертельное оружие 3 (1992)
+https://river-1.rutube.ru/hls-vod/j7JVVPI-jBT79E7nUrnxgQ/1742064013/2080/0x5000c500f1d9b395/f5639425e4ff4ff2b4dac49ef2f99428.mp4.m3u8?i=1920x792_3095
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/86/12/86122cb3b2d801870e6549eca72f636e.jpg", Смертельное оружие 4 (1998)
+https://river-1.rutube.ru/hls-vod/Je5SauB80YnXv_-2dO6CTg/1742064014/2092/0x5000c500f1db50ea/6573729710e74f9ca0f7b3336a10b85a.mp4.m3u8?i=1920x800_3130
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/04/04/0404cf5a3fa1f56c20510b160e332d41.jpg", Крепкий орешек 1 (1988)
+https://river-1.rutube.ru/hls-vod/suKLJ6RV-rP3Im425ZBzRg/1742064015/2080/0x5000c500f1e5bef2/eee9699e83834d5c9398806781620b61.mp4.m3u8?i=1920x808_3111
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/53/17/5317052db30ce9e38adbc49a21918df5.jpg", Крепкий орешек 2 (1990)
+https://river-1.rutube.ru/hls-vod/2Y7F7WM8CQWGC_uMhC-Atw/1742064017/2094/0x5000c500f1e373ab/58c8c5f7b0294431a70f9f3269a55c2a.mp4.m3u8?i=1920x808_2656
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b8/2b/b82b12445a8e681f2f10d0c8424e4a46.jpg", Крепкий орешек 3: Возмездие (1995)
+https://river-1.rutube.ru/hls-vod/wS8quOK6Zt9nbhboPWuQ_w/1742064018/2086/0x5000c500f1e56de3/63095003d0344536a133943c076a361b.mp4.m3u8?i=1920x816_5140
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/05/4b/054b62ae2251c54fb2276f1a8907f996.jpg", Крепкий орешек 4.0 (2007)
+https://river-1.rutube.ru/hls-vod/i7_VxUekokJkNloKSuLUOg/1742064019/2096/0x5000c500f1ddd63f/d40201d85254411688b481ea8c6e5cc4.mp4.m3u8?i=1920x800_4010
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0b/5f/0b5f577cfcc881737deea91ad8517731.jpg", Крепкий орешек: Хороший день чтобы умереть (2013)
+https://river-1.rutube.ru/hls-vod/NpYv-VJ-KuKtea42Gb68Og/1742064021/2074/0x5000c500f1e5bcb3/7f025662e55f448a84e4525daa024f1e.mp4.m3u8?i=1920x1040_6334
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/fb/0f/fb0fe2878512c5616dcd37d52db01059.jpg", Голый пистолет (1988)
+https://river-1.rutube.ru/hls-vod/jExXWTQayCZ1Df273RcGtA/1742064022/2082/0x5000c500f1dc0cc2/03007e73cf6f4035afceef8812ef52b6.mp4.m3u8?i=1920x1080_11742
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/f3/39/f339f168247ca35cab03446e15a918b9.jpg", Голый пистолет 2 1/2: Запах страха (1991)
+https://river-1.rutube.ru/hls-vod/eTDO1_8Y0cweNdEuARdCIQ/1742064023/2199/0x5000c500e74e8332/389d8de069f742acba88730f981d509e.mp4.m3u8?i=1920x1080_17617
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/fb/fe/fbfe21ad28f5f4f470759c6049e45125.jpg", Голый пистолет 33 1/3: Последний выпад (1994)
+https://river-1.rutube.ru/hls-vod/-qLEjMVFWanwGIqMzdLOcg/1742064025/2084/0x5000c500f1e56cb7/1c3a5ddc4fbb4c89a69270e74da7b80b.mp4.m3u8?i=1920x1080_5164
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/0e/24/0e24e3ebb01ddc1c89d67ca6d5e31d94.jpg", Роман с камнем (1984)
+https://river-1.rutube.ru/hls-vod/laPHgcoRU5bW36T12vVudw/1742064026/2088/0x5000c500f1e528b2/01a622d6ece446518bf60e650fbd6d48.mp4.m3u8?i=1920x808_4126
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/81/45/81450c4471e1bba861326b76e98e04e8.jpg", За бортом (1987)
+https://river-1.rutube.ru/hls-vod/nR5BJABa82ihvimcROOc-w/1742064028/2161/0x5000c500e716d47f/95ba52b3146e4bf6bd82d336288128f4.mp4.m3u8?i=1920x1040_7960
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-01-26/71/5c/715ca4d5769efa0a306b8484a11543a0.jpg", Сонная Лощина (1999)
+https://river-1.rutube.ru/hls-vod/ELzxe8JwGtvk6GpSCforWA/1742064029/2560/0x5000039ce86356a5/0df93f3df7924f5f839ed787966429dd.mp4.m3u8?i=1920x1040_8141
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/66/7e/667e2edd51783fa39d3b04dd90171279.jpg", Эдвард руки-ножницы (1990)
+https://river-1.rutube.ru/hls-vod/bFFoim3Io8rJcaD4NCQ48g/1742064030/2082/0x5000c500f1e58de1/4a39ec11a1db471398cf5f861a484f56.mp4.m3u8?i=1920x1040_3623
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/8d/d3/8dd3efd1571ad3088a04ff6bd57ce75d.jpg", Суини Тодд демон-парикмахер с Флит-стрит (2007)
+https://river-1.rutube.ru/hls-vod/jjZQfVJPNXnY4kPzbzJuhg/1742064032/2084/0x5000c500f1d6eb4f/f34f9a60442644ff8945ab40cdec10cd.mp4.m3u8?i=1920x1080_4521
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/a4/eaa459f67510076ba72d4cb504259317.jpg", Бегущий по лезвию (1982)
+https://river-1.rutube.ru/hls-vod/BEvNxHPHRynvqbAmpusS8A/1742064033/2094/0x5000c500f1e56b86/a4b73c567f7c4008a015d195501e1322.mp4.m3u8?i=1920x800_4439
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/e5/b4/e5b4184bbe7d82a5f1886f443599e835.jpg", Побег из Шоушенка (1994)
+https://river-1.rutube.ru/hls-vod/vOTjlLnZfVkf2KKp5CRVnA/1742064034/2090/0x5000c500f1e53ed1/fb597d78a4664d439e00bece9987f52a.mp4.m3u8?i=1920x1080_3158
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-12-01/a6/36/a6362b6d65ff554bad85496395be578e.jpg", Плохие парни (1995)
+https://river-1.rutube.ru/hls-vod/M5leCQ1UFAWYliqOIbfNdA/1742064036/2458/0x5000c500e8828c19/18bf9eb8e16f4a2c9ab268fc460c6553.mp4.m3u8?i=1920x1032_9539
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-12-05/64/31/6431e9a43225355059b06b03e4083b0b.jpg", Плохие парни 2 (2003)
+https://river-1.rutube.ru/hls-vod/4qDxhFPEG6LpMOyDUG_bxQ/1742064037/2387/0x5000c500f2b8d4ef/cf66e7867bf74f71ba202baa13b4264a.mp4.m3u8?i=1920x1080_7181
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/31/17/311720c151ce7b883eb8610422de777a.jpg", Плохие парни навсегда (2020)
+https://river-1.rutube.ru/hls-vod/QAwNfblmezh8Dtexx541XQ/1742064038/2407/0x5000c500f2b8fd77/41b238f863414ee69f8e4c3706695c24.mp4.m3u8?i=1920x800_5410
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-05/45/0e/450eeae1f7086b72f90bf80251d93f91.jpg", Плохие парни до конца (2024)
+https://river-1.rutube.ru/hls-vod/mczcgH9wFalFT9fQuXTlPQ/1742064040/2195/0x5000c500e68dd46b/7709893a9127431b8d2e3542d508e7c5.mp4.m3u8?i=1920x800_4154
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ef/ac/efac2db779f26a11e3b40820ff79e6b9.jpg", Хищник 1 (1987)
+https://river-1.rutube.ru/hls-vod/bu3JZLE43VMOSQDLKpLYew/1742064041/2086/0x5000c500f1dc5f4c/e610d9ec709a46d188a7eb884048687a.mp4.m3u8?i=1920x1040_3276
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/89/b9/89b99a75e054b014b6f923beb3ca5330.jpg", Хищник 2 (1990)
+https://river-1.rutube.ru/hls-vod/qvnKWSYeG4SNW7LEWFm_Tw/1742064043/2086/0x5000c500f1e563e5/b401b1bbd15444f1920801e8644d0fa5.mp4.m3u8?i=1920x1040_3463
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-08/07/78/077803ed7756ebca48ccc4c154614e5e.jpg", Харли Дэвидсон и ковбой Мальборо (1991)
+https://river-1.rutube.ru/hls-vod/KwWW90AtOOgSruJG0Wm3sw/1742064044/2446/0x5000c500e883eb8a/2c4ba25009c54ceead8b309c1e5a427d.mp4.m3u8?i=1920x1080_10607
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b1/c9/b1c970b015d0b81fe294403795f07d2c.jpg", Хищники (2010)
+https://river-1.rutube.ru/hls-vod/ucxPJyLO9QDpll6MMKjHfw/1742064045/2094/0x5000c500f1e5abf9/6b8948b8aa3b4bf3a94ca30f983aa630.mp4.m3u8?i=1920x816_4261
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/61/30/61309ef7b5f0bd9b55fd7d72020b4644.jpg", Братство волка (2001)
+https://river-1.rutube.ru/hls-vod/WHYHqBkZtEFovDRyGdKH6A/1742064047/2096/0x5000c500f1e5ac99/1bf6eca24e114ec7a641745355d4193c.mp4.m3u8?i=1920x824_3319
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/55/69/5569b8af0d772a65f3e5a95e6f2a02b1.jpg", Патриот (2000)
+https://river-1.rutube.ru/hls-vod/lLs2im0wkc0mJ14ZPbGLXg/1742064048/2094/0x5000c500f1e5251e/5fd295c49670408b99e8c6adb60685c3.mp4.m3u8?i=1920x800_3418
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/bf/a3/bfa336835233d6d8118c79116e0ea85e.jpg", Багровые реки 2: Ангелы апокалипсиса (2001)
+https://river-1.rutube.ru/hls-vod/fqP2Xpz5kk39l4bCGXQjrg/1742064050/2074/0x5000c500f1e5245e/0998d790978e4a9f8fe6d3a3afa18eac.mp4.m3u8?i=1920x808_2711
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2025-02-24/eb/78/eb786970635d0b0fb89cdd86f19b6633.jpg", Труп невесты (2005)
+https://river-1.rutube.ru/hls-vod/6IFkaAJlSRxpju_KO8yQtQ/1742064051/1879/0x5000c500e5355ac6/e93b2fbb82534cdb92846a7f46211646.mp4.m3u8?i=1920x1080_3238
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/1f/e8/1fe805cefa7284ff7c6f4ec05757c59d.jpg", Шрек (2001)
+https://river-1.rutube.ru/hls-vod/cT3opNdJhb_X17fas2_CYA/1742064052/2084/0x5000c500f1e37576/2ca2b39ebe46452ea52a78ff68e899de.mp4.m3u8?i=1920x1080_4155
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/a1/eaa11f59cda6e74713dd3f4c7da79aa5.jpg", Сияние (1980)
+https://river-1.rutube.ru/hls-vod/_us2ZG3E5t2vffgcJv7D5A/1742064053/2086/0x5000c500f1dd737a/61778e2f29b24b0f9b08e2a5ac789cd8.mp4.m3u8?i=1920x1080_2531
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/78/dc/78dc88e1e056b469739d037a5914ad8d.jpg", Девятые врата (1999)
+https://river-1.rutube.ru/hls-vod/gWSF-6ndbMuI02FwZ03SCg/1742064054/1970/rutube-ds-origin-132-2/eec2312992094d108e2bd5fa628aad0b.mp4.m3u8?i=1920x816_1648
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-10-04/21/5c/215c446173b38ed2ae45da1e9dae7c24.jpg", Человек тьмы 4K (1990)
+https://river-1.rutube.ru/hls-vod/pJ0MSvTD5EVqYoDLRd_H5g/1742064056/1822/0x5000c500c8c54e6e/8de341325a954ce294d71aea60cf3878.mp4.m3u8?i=3840x2160_16011
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/94/a4/94a4d87ab55fd46c1537a77873f3fc11.jpg", Тень (1994)
+https://river-1.rutube.ru/hls-vod/MjuDcFSwcN_4miOjFK0Scg/1742064057/2080/0x5000c500f1e579e7/63c7983d4528474a81ee35790eb7ba8c.mp4.m3u8?i=1920x1080_16172
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-12-01/ed/05/ed058741960331f0cd924afe4e1d171a.jpg", Дракула (1992)
+https://river-1.rutube.ru/hls-vod/SlrZzrYlxGjysGreazxO2w/1742064058/2454/0x5000c500e883918f/afae75fe6b404565af920e8a9b22c941.mp4.m3u8?i=1920x1040_9349
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/8e/c0/8ec014108a07ad2aebc16a2744495b72.jpg", Храброе сердце (1995)
+https://river-1.rutube.ru/hls-vod/dyvTEP8Uap0cBlLWTP4trQ/1742064060/1887/0x5000c500e53d01b1/7567e5ba9b4b4e4e8b9d898f943a5b39.mp4.m3u8?i=1920x816_5758
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/35/5f/355f73c20ec55afc3faae226135f98bd.jpg", Скала (1996)
+https://river-1.rutube.ru/hls-vod/JYPhavF_0U6Hq198e49YaA/1742064061/2219/0x5000c5007446408c/2adbb045f8a9444a84763592074598ec.mp4.m3u8?i=1920x816_8620
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/6d/46/6d46850282f89899148d7d3dca30a429.jpg", Троя (2004)
+https://river-1.rutube.ru/hls-vod/4cnBJBtDWz-8snpousbDwA/1742064063/2090/0x5000c500f1e53ed1/90a9e35084074e7e9064af7cb873b067.mp4.m3u8?i=1920x792_3570
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-25/be/5c/be5cb0961b97f2243d37da8e9db458f5.jpg", Гремлины (1984)
+https://river-1.rutube.ru/hls-vod/qLHf9LLBSjGbOHM0VPAkFg/1742064064/2448/0x5000c500e882ba60/d19532cb7a434d2691c9ea43bd718311.mp4.m3u8?i=1920x1080_4302
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-25/9c/45/9c45158432862c952a116179da709f36.jpg", Гремлины 2: Новенькая партия (1990)
+https://river-1.rutube.ru/hls-vod/TBALTa-Vmpinwln_DMwW_A/1742064065/2468/0x5000c500e883962b/7c69a78d37c144d09a1a2343c2a5744c.mp4.m3u8?i=1920x1080_5455
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/bb/91/bb91626da8833229a77238edc23e8bea.jpg", Царство небесное (2005)
+https://river-1.rutube.ru/hls-vod/iYY-j8dG-PaxpPDeLo36kA/1742064067/2088/0x5000c500f1e14287/bf7a0e2b30444d00a7c9ddb5af4642fc.mp4.m3u8?i=1920x816_3352
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b8/41/b841f26da9c610e80793de9f7440f1da.jpg", Один дома (1990)
+https://river-1.rutube.ru/hls-vod/jjgqo1uU8L0ToZGtcUkEdg/1742064068/1893/0x5000c500e539c06f/d0618f08c897472f9c4de21f44ff781f.mp4.m3u8?i=1920x1032_15816
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-29/03/2d/032d1df370100c7433eda7257f8ad046.jpg", Один дома 2: Затерянный в Нью-Йорке (2010)
+https://river-1.rutube.ru/hls-vod/8Tv5TdEnzlFbfCTzGCQBjQ/1742064069/1867/0x5000c500e53d02d1/4f87990c33ba494c8d6398fd965f5eaf.mp4.m3u8?i=1920x1040_8282
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/e8/f1/e8f1672324eeffd484884fd87445c294.jpg", Принц Персии: Пески времени (2010)
+https://river-1.rutube.ru/hls-vod/Dsy60DKGZaebarV89Z6TYg/1742064071/2080/0x5000c500f1e5215e/139d7acc71564a8a994a7d7d2c59ddb8.mp4.m3u8?i=1920x800_4812
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/69/50/6950900d717abc493d434448087e6a2a.jpg", Ван Хельсинг (2004)
+https://river-1.rutube.ru/hls-vod/sVf7MDnMQYRzqvs7vcbhPw/1742064072/1772/0x5000c500c45cabe9/0840331647944eb3868994c2f1617540.mp4.m3u8?i=1920x1040_6471
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/38/68/386800ff6f12f8871226eeda58919d4b.jpg", Сайлент Хилл (2006)
+https://river-1.rutube.ru/hls-vod/OV1EyGPJ5oLroD-Nc6juKA/1742064074/1867/0x5000c500e53c8763/9fcfcfb520ed436894e63e3e9436bf81.mp4.m3u8?i=1920x816_4945
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-17/bd/9d/bd9dbf656c5f422bfa6da726f8b3c533.jpg", Сайлент Хилл 2 (2012)
+https://river-1.rutube.ru/hls-vod/Tr7lpnv7dFp4lRS-bNpsRQ/1742064076/2082/0x5000c500f1dc0cc2/09b0fc7833db4a258833f29562cd954b.mp4.m3u8?i=1920x800_4027
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/6c/a4/6ca4609018c4df3c6c67261090675444.jpg", Спасти рядового Райана (1998)
+https://river-1.rutube.ru/hls-vod/TVo3xjXbHdgYXWXkdV8uug/1742064077/2092/0x5000c500f1d0a129/bb4ac6697dc2407287174dd499373df9.mp4.m3u8?i=1920x1032_7893
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/c9/dd/c9ddf7b982fe7022dae957099ba3b186.jpg", Перл-Харбор (2001)
+https://river-1.rutube.ru/hls-vod/knAHd6D4VwGgJj0gHYeA8g/1742064080/2076/0x5000c500f1e2a653/a3f8cba0c03e45a893390662dabd7339.mp4.m3u8?i=1920x800_3629
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/25/42/25428afd7226e67cda3c552fc233e92c.jpg", Армагеддон (1998)
+https://river-1.rutube.ru/hls-vod/Ri36ws_Agdu-cjZAmzYPzA/1742064081/1877/0x5000c500e539cbb9/f877b0389ecd41e0b5b6daa253a1d9f8.mp4.m3u8?i=1920x800_7584
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ea/b1/eab16c487b80e0398f42f0ec74f3b6a1.jpg", Бегущий человек (1987)
+https://river-1.rutube.ru/hls-vod/UrHymI6QNBAkbBMCxVeJfQ/1742064083/1871/0x5000c500e4db1142/10aab125431544c7acc2aff36ceb78ba.mp4.m3u8?i=848x480_1508
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/56/1a/561ac5e8a1a2e0932f136d70676c8576.jpg", Эффект бабочки (2004)
+https://river-1.rutube.ru/hls-vod/2cv8gXCeVS8aNe3nk1EeWQ/1742064084/2211/0x5000c500e72ad81b/6b719a4751b844ad92096509569d9787.mp4.m3u8?i=1920x1080_7681
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/99/35/9935ee154f88f1f3380793a42fbdbe80.jpg", Пираты Карибского моря. Проклятие Черной жемчужины (2003)
+https://river-1.rutube.ru/hls-vod/gxeu2ZwX5TKmScujg3UriA/1742064086/1861/0x5000c500e539f074/143b42bb4ee242dd9d660f01c2b8925c.mp4.m3u8?i=1920x1080_6473
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/40/cd/40cd7ae19d10c729471cd57ef0ce361b.png", Пираты Карибского моря: Сундук мертвеца (2006)
+https://river-1.rutube.ru/hls-vod/zaEWXm6QvVyS4Bd1Ed0tiw/1742064087/2090/0x5000c500f1e5b45d/0d4ca73a35cb4e70becf7254f9549a03.mp4.m3u8?i=1920x800_3894
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b5/54/b5548a4b2b607155de33784fe24c9292.png", Пираты Карибского моря: На краю Света (2007)
+https://river-1.rutube.ru/hls-vod/MRCoZADZfBgNttbIdGAlpQ/1742064088/2080/0x5000c500f1e52678/213d02ad10ab45e19cb295e105c758f3.mp4.m3u8?i=1920x800_3784
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/99/c7/99c71f487486ee6409ac7606deda8ef1.jpg", Пираты Карибского моря: На странных берегах (2011)
+https://river-1.rutube.ru/hls-vod/H6_68AmMTgLlctom-QAq8A/1742064090/2096/0x5000c500f1e53214/605bd8c592134555b0f053cffb26c179.mp4.m3u8?i=1920x800_3839
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/89/be/89be2af94d48273a12833cc06f7fbbba.png", Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+https://river-1.rutube.ru/hls-vod/Oel7I3gotlE62YePmlug6Q/1742064091/2082/0x5000c500f1d6dd69/abf6800e5d244a80ad962f338feef7ca.mp4.m3u8?i=1920x800_5067
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/9a/56/9a563328673ebfda5de3087bbae8867a.jpg", Остров головорезов (1995)
+https://river-1.rutube.ru/hls-vod/T9iygFu4dOAAJSy9mW6p_A/1742064093/2201/0x5000c5007446d66b/830f26601914454fba826cb33aa9cb28.mp4.m3u8?i=1920x816_3512
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/86/be/86beb602079c3abfe1adcaac41d64588.jpg", Разрушитель (1993)
+https://river-1.rutube.ru/hls-vod/VQtQnr8KP3SiwgYK67bnnA/1742064094/2084/0x5000c500f1e5bc16/f787157213a94061aa65e4082c73f37e.mp4.m3u8?i=1920x800_2579
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-11-07/be/69/be6997951212b273c3aed5b0e6fe3300.jpg", Судья Дредд (1995)
+https://river-1.rutube.ru/hls-vod/jJiDrgeJ5CMyuy9hLKvQmg/1742064095/2094/0x5000c500f1e5b4c4/a057446b03a44dad81482c771ec41efd.mp4.m3u8?i=1904x1080_9316
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/52/e4/52e4fad6bcd89234c114381f8fbd3f8e.jpg", Звездный десант (1997)
+https://river-1.rutube.ru/hls-vod/K9NZHBnFTFBVJ2xU5zh28w/1742064096/2096/0x5000c500f1e5ac51/35797a988b1c405f8dae381e1c52843a.mp4.m3u8?i=1920x1040_5893
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/b6/86/b68605f298d8abaf72de57f85c7ce2b6.jpg", Маска (1994)
+https://river-1.rutube.ru/hls-vod/jT4pv8FSe3pwn4fqsKqD-Q/1742064098/2088/0x5000c500f1e50207/2a73d46b6ead4b469a0f23b9f124ab3a.mp4.m3u8?i=1920x1080_2964
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/4a/f9/4af9c547d5b8f17be3b8707e91c44590.jpg", Форрест Гамп (1994)
+https://river-1.rutube.ru/hls-vod/xp9ckd6jherzyofwBKwNIw/1742064099/2080/0x5000c500f1e4ee8f/98def6ae0af54c518a5792673792e81f.mp4.m3u8?i=1920x816_7406
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/66/1a/661a949612994a9f64b7e21124e2a5a0.jpg", Пятый элемент (1997)
+https://river-1.rutube.ru/hls-vod/OGJuJBBoX9abzU9rgDAX1g/1742064101/2082/0x5000c500f1e3d606/da5a7d6529ae4b3e991e7b9a45a8bda6.mp4.m3u8?i=1920x1080_4117
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/a4/e7/a4e7fc51713fe07a7e74d68f3f3067dd.jpg", К-9: (Собачья работа 1989)
+https://river-1.rutube.ru/hls-vod/2pwaXSyhd1zdHf8pq96qWg/1742064102/1881/0x5000c500e539f380/6114d6a8726d468d9b20d97a867fe9a2.mp4.m3u8?i=1920x1040_14461
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/ba/4a/ba4a7cff1ae434162855e089994696bb.jpg", Чужой (1979)
+https://river-1.rutube.ru/hls-vod/zH0R8v0d4yJmN_rbhmoB6Q/1742064104/1869/0x5000c500e53c0ba6/c159441ba24c4270b832f2ccf6b4c638.mp4.m3u8?i=1920x816_3577
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/f6/4e/f64e6150976bae41d4f82e8affdef8fc.jpg", Чужие (1986)
+https://river-1.rutube.ru/hls-vod/PaGB6EPBfHYBYGkleTKx-Q/1742064105/2084/0x5000c500f1e565cc/720238d9fbdd432099836d93b4f02e9c.mp4.m3u8?i=1920x1080_4495
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/51/ce/51ce5c9e08b75677efde118767fdd56a.png", Чужой 3 (1992)
+https://river-1.rutube.ru/hls-vod/Bka3AGn8hCnTm2Th1IcMpg/1742064106/2080/0x5000c500f1e2ab87/6e1acd4f84504a119ac1a7eb2808ad9f.mp4.m3u8?i=1920x808_2837
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/f0/c3/f0c33f8970b44e497da4cc1156f8ee7b.jpg", Чужой 4: Воскрешение (1997)
+https://river-1.rutube.ru/hls-vod/vISzyL3K5T5uctmm4X4UnA/1742064108/2096/0x5000c500f1e50966/157552c816314567b0bee921d4490b54.mp4.m3u8?i=1920x816_4061
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/88/61/8861bcf7d264c7003a5ccd220add4f5c.jpg", Чужой: Завет (2017)
+https://river-1.rutube.ru/hls-vod/-xISxQgDPejXODoO6kCyWA/1742064109/2080/0x5000c500f1e57c53/417d4fef81f742ca8e4cce3b2b79314d.mp4.m3u8?i=1920x1080_4645
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-10-14/d2/69/d269d7107dca7c61c3ee9ae6db2ecf4a.jpg", Чужой: Ромул (2024)
+https://river-1.rutube.ru/hls-vod/g3F-M3AKXvqWsAolsL-w3A/1742064111/2462/0x5000c500e883042c/055d2b9eb61d40f2a2997f82d7f460c8.mp4.m3u8?i=2560x1064_3046
+#EXTINF:-1 group-title="KINO ZAL (VPN)" tvg-logo="https://pic.rutube.ru/video/2024-09-27/1c/d0/1cd0f257e09ef914172373f7c2bb3ec2.jpg", Бешеные псы (1991)
+https://river-1.rutube.ru/hls-vod/PFxeAgwpK1zKY_r-CPk9wQ/1742064112/2417/0x5000c500f2b4a9bb/c09d0b20afc94057b1c502381e64d5af.mp4.m3u8?i=1920x1080_5179
+#EXTINF:-1 group-title="KINO ZAL 4К",Компаньон (2025)
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKScas4nGXJzw1X/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Аларум (2025)
+https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/zE2SWKS6g67NFqRLw9Z/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Снова в деле (2025)
+https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKSvFW5SHGaPT1t/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Ущелье (2025)
+https://vod.plvideo.ru/JLxVTeJD/AZAevqJa5r/zE2SWKScq1IujP2eba4/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Моя вина: Лондон (2025)
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSFxqFCK57y2QK/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Вы сердечно приглашены (2025)
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/FP7MRNS3w8qj2YC5DhT/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Пятое сентября (2024)
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSuZ7DUQ_zfZYX/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Люби меня (2024)
+https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/zE2SWKSKg8Q7G81dqXL/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Мелеха Первый приколист (2024)
+https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKSIVaR2AjEHCrE/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Вульфмен (2025)
+https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/zE2SWKSN-T7IU0bQ09D/ZX
+#EXTINF:-1 group-title="KINO ZAL 4К",Летучий корабль (2024)
+https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/zE2SWKS3hquVKgRvOPv/ZX
 #EXTINF:-1 group-title="KINO ZAL 4К",Соник 3 в кино (2024)
 https://vod.plvideo.ru/JLxVTeJD/uknUrzHzQA/zE2SWKSTL36h5XVp0Yu/ZX
 #EXTINF:-1 group-title="KINO ZAL 4К",Стрелок (2024)
@@ -2243,70 +2229,24 @@ https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",TV1000 Р Кино HD
 https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
-#EXTINF:-1 group-title="Каналы с VPN",TV1000
-http://flu.ttk.mx:90/TV1000/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",TV1000 Action
-http://flu.ttk.mx:90/TV1000_Action/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",TV21
-http://flu.ttk.mx:90/TV21/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Cinema
-http://flu.ttk.mx:90/Cinema/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Amedia 1
-http://flu.ttk.mx:90/A-1/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Amedia 2
-http://flu.ttk.mx:90/A-2/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Дом кино
-http://flu.ttk.mx:90/Dom_kino/mono.m3u8?token=hs06e
+#EXTINF:-1 group-title="Каналы с VPN",Кинеко HD
+http://45.11.139.43:8555/kineko/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",Еврокино
-http://flu.ttk.mx:90/Evrokino/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Иллюзион+
-http://flu.ttk.mx:90/Illuzion+/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Кинопоказ
-http://flu.ttk.mx:90/kinopokaz/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Кинопремьера HD
-http://flu.ttk.mx:90/Kinopremiera/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Киносвидание
-http://flu.ttk.mx:90/Kinosvidanie/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Mужское Кино
-http://flu.ttk.mx:90/Muzhskoe_Kino/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Kиносемья
-http://flu.ttk.mx:90/Kinosemia/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Кинохит
-http://flu.ttk.mx:90/kinohit/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Комедия
-http://flu.ttk.mx:90/Komediya/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",M Золотая коллекция
-http://flu.ttk.mx:90/Mosfilm/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",НСТ
-http://flu.ttk.mx:90/NST/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="Каналы с VPN",Кинопоказ
-http://178.57.121.38:8080/kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Русский бестселлер
-http://178.57.121.38:8080/rusbest/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Русский детектив
-http://178.57.121.38:8080/rusdet/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Русский роман 
-http://178.57.121.38:8080/rusrom/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ
-http://178.57.121.38:8080/kinotv/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",НСТ R
-http://178.57.121.38:8080/nst/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Amedia 1
-http://178.57.121.38:8080/amedia/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Дом Кино
-http://178.57.121.38:8080/domkino/index.m3u8?token=test
-#EXTINF:-1 group-title="Каналы с VPN",Наше Новое Кино
-http://178.57.121.38:8080/kinohit/index.m3u8?token=test
+http://45.11.139.43:8555/evrokino/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",.black
 http://109.200.130.123:7537/play/a02s
 #EXTINF:-1 group-title="Каналы с VPN",FAN
 http://109.200.130.123:7537/play/a02a
 #EXTINF:-1 group-title="Каналы с VPN",Hollywood
 http://109.200.130.123:7537/play/a02g
+#EXTINF:-1 group-title="Каналы с VPN",Hollywood HD
+http://130.193.73.10:8937/play/a02k
 #EXTINF:-1 group-title="Каналы с VPN",KinoLiving
 http://109.200.130.123:7537/play/a02k
 #EXTINF:-1 group-title="Каналы с VPN",SHOT TV
 http://109.200.130.123:7537/play/a02b
+#EXTINF:-1 group-title="Каналы с VPN",Душевное
+http://193.242.190.6:8099/37/index.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",Малдер Всё тв
 https://hls.goodgame.ru/hls/153640.m3u8
 #EXTINF:-1 group-title="Каналы с VPN", Малдер Всё тв r
@@ -2363,9 +2303,7 @@ https://hls.goodgame.ru/hls/201891.m3u8
 https://hls.goodgame.ru/hls/187741.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",SCR TV HD
 https://hls.goodgame.ru/hls/61358.m3u8
-#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.postimg.cc/Pf3wtFTm/FAN.png",FAN HD
-https://hls.goodgame.ru/hls/157239.m3u8
-#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://lh4.ggpht.com/usGW8vwiQGrEH6OH6kLgVrXAqJlqzcmm1qnkwQ3AnHywhA73Hs8vVOxd1_qfv720y4M",Techno Dance Music
+#EXTINF:-1 group-title="Каналы с VPN",Techno Dance Music
 https://hls.goodgame.ru/hls/180509.m3u8
 #EXTINF:-1 group-title="Каналы с VPN",VIVA 
 https://hls.goodgame.ru/hls/180805.m3u8
@@ -2410,119 +2348,83 @@ http://stream02.vnet.am/Kinopremera/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Кинопремьера 1920x1080
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Кинопремьера
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00284/1m/index.m3u8
+http://65.21.85.175:8000/play/a02b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",Кинопремьера HD
+http://91.205.199.3/kinopremerahd/index.m3u8
+#EXTINF:-1 group-title="KINO+",Кинохит HD
+http://91.205.199.3:80/kinoxithd/index.m3u8
 #EXTINF:-1 group-title="KINO+",Кино Хит
 http://stream02.vnet.am/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Кинохит SD
 http://65.21.85.175:8000/play/a00p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",Кино хит sd
 http://45.159.74.14:80/Kinokhit/index.m3u8
-#EXTINF:-1 group-title="KINO+",КИНО хит HD
-http://141.95.55.143/CH3881/index.m3u8
-#EXTINF:-1 group-title="KINO+",Кинохит
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00349/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",Кинокомедия
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00350/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",>>>КИНОКОМЕДИЯ HD
-http://141.95.55.143/CH4435/index.m3u8
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",КИНО Микс
 http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",Киномикс
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00344/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Киносерия
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00356/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",КИНОСЕРИЯ HD
-http://141.95.55.143/CH3879/index.m3u8
 #EXTINF:-1 group-title="KINO+",Киносемья
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00373/1m/index.m3u8
+http://65.21.85.175:8000/play/a01b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",Киносемья HD
+http://91.205.199.3:80/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="KINO+",Киносвидание
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00345/1m/index.m3u8
+http://65.21.85.175:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",Киносвидание SD
+http://91.205.199.3:80/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="KINO+",Кинокомедия sd  
+http://91.205.199.3/komedia/index.m3u8
 #EXTINF:-1 group-title="KINO+",Мужское Кино 720х576
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00340/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Мужское кино 1920х1080
-http://141.95.55.143/CH245/index.m3u8
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:-1 group-title="KINO+",Мужское кино SD
 http://stream01.vnet.am/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="KINO+",Мужское Кино sd
 http://45.159.74.14:80/MujskoeKino/index.m3u8
 #EXTINF:-1 group-title="KINO+",Мужское Kino
 http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",VIJU+ PREMIERE HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00317/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",VIJU+ MEGAHIT HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00316/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+", VIJU+ COMEDY HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00315/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",viju+ PREMIERE
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",viju+ COMEDY
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",Viju+ Comedy 1920x1080
-http://141.95.55.143/CH311/index.m3u8
-#EXTINF:-1 group-title="KINO+",Viju+ Megahit HD 1920x1080
-http://141.95.55.143/CH313/index.m3u8
-#EXTINF:-1 group-title="KINO+",Viju+ Premiere HD 1920x1080
-http://141.95.55.143/CH315/index.m3u8
-#EXTINF:-1 group-title="KINO+",Viasat_Kino
-http://193.160.224.255:8000/play/a00n
-#EXTINF:-1 group-title="KINO+",Viasat_action
-http://193.160.224.255:8000/play/a01a
-#EXTINF:-1 group-title="KINO+",Viasat_comedy
-http://193.160.224.255:8000/play/a003
-#EXTINF:-1 group-title="KINO+",Viasat Kino world
-http://193.160.224.255:8000/play/a00h
+#EXTINF:-1 group-title="KINO+",VIP Megahit HD
+http://91.205.199.3/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="KINO+",Viju+ Comedy HD
+http://91.205.199.3:80/vipcomedi/index.m3u8
+#EXTINF:-1 group-title="KINO+",VIP Serial HD
+http://91.205.199.3/vipserialhd/index.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino Comedy
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino HD
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino Action 
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat Kino Megahit HD
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Viasat World
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Kinowood
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
 #EXTINF:-1 group-title="KINO+",Kinoliving
-http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
 #EXTINF:-1 group-title="KINO+",viju TV1000
 http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",TV 1000 ACTION
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00314/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",TV 1000
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00313/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",TV-1000 720x576
-http://141.95.55.143/CH141/index.m3u8
-#EXTINF:-1 group-title="KINO+",TV1000 Action 720x576
-http://141.95.55.143/CH143/index.m3u8
+#EXTINF:-1 group-title="KINO+",TV1000
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",TV1000 Action
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",TV1000
+http://91.205.199.3/tv1000/index.m3u8
+#EXTINF:-1 group-title="KINO+",TV1000 Action
+http://91.205.199.3/tv1000action/index.m3u8
 #EXTINF:-1 group-title="KINO+",Sunset Fantastic HD
 https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/8.m3u8
-#EXTINF:-1 group-title="KINO+",Киносат
-http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",ЕвроКино 720X576
-http://141.95.55.143/CH163/index.m3u8
-#EXTINF:-1 group-title="KINO+",ЕВРОКИНО
-http://185.23.80.28:8080/EuroKino/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+",Иллюзион+
-http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
-#EXTINF:-1 group-title="KINO+",Иллюзион плюс
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00338/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",КИНО ТВ HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00529/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",TV 21
-http://141.95.55.143/CH145/index.m3u8
-#EXTINF:-1 group-title="KINO+",Комедийное 
-http://141.95.55.143/CH231/index.m3u8
-#EXTINF:-1 group-title="KINO+",КАМЕДИ
-http://141.95.55.143/CH2895/index.m3u8
-#EXTINF:-1 group-title="KINO+",Star Cinema
-http://185.23.80.28:8080/StarCinema/index.m3u8?token=fas-tv.com
-#EXTINF:-1 group-title="KINO+",Star Family
-http://185.23.80.28:8080/StarFamily/index.m3u8?token=fas-tv.com
-S#EXTINF:-1 group-title="KINO+",Star Family HD
-http://87.99.87.203:2020/channel/n7f599ce7/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
+#EXTINF:-1 group-title="KINO+",KINO fas-tv.com
+http://45.159.74.14:80/Channel_118/manifest.m3u8
+#EXTINF:-1 group-title="KINO+",Cinema SD
+http://91.205.199.3/sinema/index.m3u8
+#EXTINF:-1 group-title="KINO+",TV XXI
+http://91.205.199.3/tvxxi/index.m3u8
 #EXTINF:-1 group-title="KINO+",Кіно ТВ vhs
 https://glb.bozztv.com/ssh101/kinotvua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",FILM TV GROUP
@@ -2531,78 +2433,18 @@ http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t
 http://filmtvgroup.hopto.org:8080/novosilkitb/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
 #EXTINF:-1 group-title="KINO+",TEST FILM TV
 http://filmtvgroup.hopto.org:8080/test/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 group-title="KINO+",Блокбастер
-http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",Премиальное
-http://141.95.55.143/CH545/index.m3u8
-#EXTINF:-1 group-title="KINO+",ПРЕМИАЛЬНОЕ HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00537/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",ОСТРОСЮЖЕТНОЕ HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00535/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Остросюжетное
-http://141.95.55.143/CH547/index.m3u8
-#EXTINF:-1 group-title="KINO+",Шокирующее
-http://141.95.55.143/CH229/index.m3u8
-#EXTINF:-1 group-title="KINO+",SHOT TV
-http://141.95.55.143/CH249/index.m3u8
-#EXTINF:-1 group-title="KINO+",SHOT TV
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00436/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",HOLLYWODD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00460/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Hollywood hd
-http://141.95.55.143/CH291/index.m3u8
-#EXTINF:-1 group-title="KINO+",Hollywood HD
-http://193.160.224.255:8000/play/a029
-#EXTINF:-1 group-title="KINO+",Kino 1 HD
-http://87.99.87.203:2020/channel/n216d0c1/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",Kino 7 [LV]
-http://87.99.87.203:2020/channel/n4adcc4fb/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",FilmZone
-http://87.99.87.203:2020/channel/1d89eedf/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",FilmZone+ [LT]
-http://87.99.87.203:2020/channel/22002904/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",TV3 plus HD
-http://87.99.87.203:2020/channel/7a5e2ab5/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",Go3 Films FHD
-http://87.99.87.203:2020/channel/5023b065/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",Duo3 HD
-http://87.99.87.203:2020/channel/2af95c64/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",Duo6
-http://87.99.87.203:2020/channel/2afab981/index.m3u8?q=c155fd146caa671acca6c6873fe5c176
-#EXTINF:-1 group-title="KINO+",GO3 films HD RU-TL
-http://141.95.55.143/CH5665/index.m3u8
-#EXTINF:-1 group-title="KINO+",yes MOVIES ACTION HD ru-En
-http://141.95.55.143/CH7285/index.m3u8
-#EXTINF:-1 group-title="KINO+",yes MOVIES ACTION HD ru-En
-http://141.95.55.143/CH7040/index.m3u8
-#EXTINF:-1 group-title="KINO+",yes MOVIES COMEDY HD ru-En
-http://141.95.55.143/CH7283/index.m3u8
-#EXTINF:-1 group-title="KINO+",yes MOVIES DRAMA HD ru-En
-http://141.95.55.143/CH7287/index.m3u8
-#EXTINF:-1 group-title="KINO+",HOT HD ru-En
-http://141.95.55.143/CH7467/index.m3u8
-#EXTINF:-1 group-title="KINO+",HOT c2 HD ru-En
-http://141.95.55.143/CH7461/index.m3u8
 #EXTINF:-1 group-title="KINO+",312 Кино 
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="KINO+",4ever theater
-http://193.160.224.255:8000/play/a022
-#EXTINF:-1 group-title="KINO+",4ever_cinema
-http://193.160.224.255:8000/play/a00l
-#EXTINF:-1 group-title="KINO+",Filmbox
-http://193.160.224.255:8000/play/a00m
-#EXTINF:-1 group-title="KINO+",Flix & Snip
-http://193.160.224.255:8000/play/a00i
 #EXTINF:-1 group-title="KINO+",Феникс+Кино
 rtmp://212.0.213.132//Fenix_Kino
-#EXTINF:-1 group-title="KINO+",Trash TV
-http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+",Sunset Fantastic
+https://stream.sunset-media.ru/AfBrazXsUK/J9hGT3vYuv/8.m3u8
 #EXTINF:-1 group-title="KINO+",Видеокассета E-180
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",ВидеоКассета Киномир
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
 #EXTINF:-1 group-title="KINO+",Видеокассета VHS
 https://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1 group-title="KINO+",MGM
-https://autopilot.catcast.tv/content/44051/index.m3u8
 #EXTINF:-1 group-title="KINO+",Сити Эдем - Кино Комедия
 https://v2.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 group-title="KINO+",Сити Эдем - Кино Экшен
@@ -2611,6 +2453,8 @@ https://autopilot.catcast.tv/content/41333/index.m3u8
 https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1 group-title="KINO+",Сити Эдем - Кино Детектив
 https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1 group-title="KINO+",Сити Эдем - КиноНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1 group-title="KINO+",Malder Мегахит
 https://autopilot.catcast.tv/content/47689/index.m3u8
 #EXTINF:-1 group-title="KINO+",Malder Ужас
@@ -2619,20 +2463,10 @@ https://autopilot.catcast.tv/content/47764/index.m3u8
 https://autopilot.catcast.tv/content/47180/index.m3u8
 #EXTINF:-1 group-title="KINO+",Кино 1 International
 http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="KINO+",КИНОПОКАЗ HD
-http://141.95.55.143/CH4521/index.m3u8
-#EXTINF:-1 group-title="KINO+",Кинопоказ 
-http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",КИНОПОКАЗ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00411/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Т24
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00558/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",Cinema Космос ТВ HD BY
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="KINO+",Just tv
 http://185.236.229.62:9981/play/a08e
-#EXTINF:-1 group-title="KINO+",ATV Kinoman
-http://31.47.199.45:1402/kinoman/index.m3u8
 #EXTINF:-1 group-title="KINO+",ATV Kinoman HD
 http://45.159.74.14:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",ATV Kinoman hd
@@ -2641,76 +2475,50 @@ http://stream02.vnet.am/Kinoman/mono.m3u8
 http://stream01.vnet.am/Channel_118/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Нове тв 
 https://novoe.top/nove_tv.m3u8.jpg?m3u8
-#EXTINF:-1 group-title="KINO+",Киноужас fas-tv.com
-http://141.95.55.143/CH409/index.m3u8
 #EXTINF:-1 group-title="KINO+",НСТ SD
 http://stream01.vnet.am/Channel_125/mono.m3u8
 #EXTINF:-1 group-title="KINO+",НСТ
-http://141.95.55.143/CH157/index.m3u8
-#EXTINF:-1 group-title="KINO+",НСТ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00556/1m/index.m3u8
+http://45.159.74.14:80/Channel_125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Индийское кино 
 http://65.21.85.175:8000/play/a00o/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",Индийское kino
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00339/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",ИНДИЯ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00515/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",Индия
 http://stream01.vnet.am/ZeeTV/mono.m3u8
-#EXTINF:-1 group-title="KINO+",Fox tva*org*ua
-http://193.160.224.255:8000/play/a01d
+#EXTINF:-1 group-title="KINO+",FX
+http://45.159.74.14/Fox/tracks-v1a1/mono.m3u8?key-fas-tv.com
+#EXTINF:-1 group-title="KINO+",FX Life
+http://45.159.74.14/KXLTV/tracks-v1a2/mono.m3u8?key-fas-tv.com
 #EXTINF:-1 group-title="KINO+",Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1 group-title="KINO+",FX
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00279/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",FX LIFE
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00280/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",FX LIFE
-http://141.95.55.143/CH3805/index.m3u8
 #EXTINF:-1 group-title="KINO+",A1
 http://stream01.vnet.am/Channel_128/mono.m3u8
+#EXTINF:-1 group-title="KINO+",A1 720х576
+http://45.159.74.14:80/Channel_128/tracks-v1a1/mono.m3u8?key-fas-tv.com
 #EXTINF:-1 group-title="KINO+",Amedia 1
 http://sc.id-tv.kz/A1.m3u8
-#EXTINF:-1 group-title="KINO+",А1
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00260/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",А2
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00261/1m/index.m3u8
+#EXTINF:-1 group-title="KINO+",Amedia-1
+http://65.21.85.175:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",A2
+http://45.159.74.14/Zagorodniy/tracks-v1a1/mono.m3u8?key-fas-tv.com
 #EXTINF:-1 group-title="KINO+",Amedia 2 
 http://sc.id-tv.kz/A2_36_37.m3u8
 #EXTINF:-1 group-title="KINO+",A-2
 http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KINO+",A2 SD
-http://135.181.115.81:8000/play/a00r/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",Amedia Hit HD
-http://stream01.vnet.am/Nauka/index.m3u8
-#EXTINF:-1 group-title="KINO+",A Hit
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00461/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",A HIT
-http://141.95.55.143/CH3887/index.m3u8
-#EXTINF:-1 group-title="KINO+",A Premium HD
-http://141.95.55.143/CH3885/index.m3u8
+http://135.181.115.81:8000/play/a03g/index.m3u8?token=livetv
+#EXTINF:-1 group-title="KINO+",Amedia Premium
+http://65.21.85.175:8000/play/a01p/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/index.m3u8
-#EXTINF:-1 group-title="KINO+",sci-fi 720X576
-http://141.95.55.143/CH175/index.m3u8
-#EXTINF:-1 group-title="KINO+",sci-fi HD 
-http://141.95.55.143/CH4613/index.m3u8
+#EXTINF:-1 group-title="KINO+",Amedia Hit HD
+http://stream01.vnet.am/Nauka/index.m3u8
+#EXTINF:-1 group-title="KINO+",Amedia Hit
+http://45.159.74.14/Nauka/tracks-v1a1/mono.m3u8?key-fas-tv.com
+#EXTINF:-1 group-title="KINO+",sci-fi
+http://45.159.74.14/Kinoseriya/tracks-v1a1/mono.m3u8?key-fas-tv.com
 #EXTINF:-1 group-title="KINO+",.SCI-FI sd
 http://stream01.vnet.am/Kinoseriya/mono.m3u8
-#EXTINF:-1 group-title="KINO+",sci-fi
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00521/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",RED
 http://178.124.152.238:8088/sony
-#EXTINF:-1 group-title="KINO+",red
-http://141.95.55.143/CH147/index.m3u8
-#EXTINF:-1 group-title="KINO+",.Red
-http://31.47.199.45:1401/red/index.m3u8
-#EXTINF:-1 group-title="KINO+",black
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00522/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",.black
-http://31.47.199.45:1401/black/index.m3u8
-#EXTINF:-1 group-title="KINO+",black HD
-http://141.95.55.143/CH4615/index.m3u8
 #EXTINF:-1 group-title="KINO+",ТСВ iptv-org-ua
 https://iptv-hls.idc.md/hls/2/live2.m3u8
 #EXTINF:-1 group-title="KINO+",FilmZone
@@ -2723,7 +2531,7 @@ http://95.67.12.82:9046
 https://rebrand.ly/tqiq6lv/ROSTIK-TV/TV-1-KG
 #EXTINF:-1 group-title="KINO+",Седьмой канал KZ
 http://sc.id-tv.kz/7_kanal_34_35.m3u8
-#EXTINF:-1 group-title="KINO+",1 канал KZ
+#EXTINF:-1 group-title="KINO+",31 канал KZ
 http://sc.id-tv.kz/31Kanal_34_35.m3u8
 #EXTINF:-1 group-title="KINO+", Usba Кинозал 3
 https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
@@ -2793,18 +2601,18 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba64/index.m3u8
 #EXTINF:-1 group-title="KINO+", Usba Кинозал 37
 https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 group-title="KINO+",ТНТ
-http://185.23.80.28:8080/TNT/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",тнт
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00283/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",Timeless Dizi Channel
 http://194.158.222.36:6086
+#EXTINF:-1 group-title="KINO+",САПФИР
+http://135.181.115.81:8000/play/a03f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",Дом Кино
 https://stream01.vnet.am/DomKino/mono.m3u8
 #EXTINF:-1 group-title="KINO+",ДОМ КИНО
 http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",ДОМ КИНО ПРЕМИУМ
 http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+",4
+http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 group-title="KINO+",Перец Int
 http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 group-title="KINO+",ПЕРЕЦ
@@ -2813,88 +2621,54 @@ http://178.124.152.238:8088/perec
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Домашний +  
 http://stream02.vnet.am/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+",ДОМАШНИЙ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00423/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",СТС
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00392/1m/index.m3u8
+#EXTINF:-1 group-title="KINO+",12 TV
+https://streaming.goodstream.cyou/live/7004.m3u8
+#EXTINF:-1 group-title="KINO+",СТС SD
+https://streaming.goodstream.cyou/live/296.m3u8
 #EXTINF:-1 group-title="KINO+",СТС HD
 http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KINO+",СТС
-http://185.23.80.28:8080/STS/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",СТС Love
-http://185.23.80.28:8080/STSLove/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",ЧЕ
-http://185.23.80.28:8080/Che/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",ЧЕ!
-http://141.95.55.143/CH185/index.m3u8
-#EXTINF:-1 group-title="KINO+",ЧЕ!
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00372/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",РЕН ТВ
 http://stream01.vnet.am/RenTv/mono.m3u8
-#EXTINF:-1 group-title="KINO+",РЕН ТВ HD
-http://141.95.55.143/CH4523/index.m3u8
 #EXTINF:-1 group-title="KINO+",ТВ 3 
 http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 group-title="KINO+",тв 3
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00429/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",TVRUS
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00553/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",TVRUS+
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00562/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",ПЯТНИЦА!
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00375/1m/index.m3u8
+#EXTINF:-1 group-title="KINO+",TV 3
+http://45.159.74.14:80/Channel_121/manifest.m3u8
 #EXTINF:-1 group-title="KINO+",Пятница! International (Казахстан)
 http://stream01.vnet.am/Pyatnica/mono.m3u8
-#EXTINF:-1 group-title="KINO+",Пятница
-http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",Р Иллюзион
-http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
-#EXTINF:-1 group-title="KINO+",Р Иллюзион HD
-http://141.95.55.143/CH4407/index.m3u8
-#EXTINF:-1 group-title="KINO+",Родное кино
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00363/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Любимое КИНО
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00557/1m/index.m3u8
+#EXTINF:-1 group-title="KINO+",Любимое Кино
+http://91.205.199.3:80/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="KINO+",Золотая Коллекция SD
+http://91.205.199.3:80/mosfilm/index.m3u8
 #EXTINF:-1 group-title="KINO+",Ру роман
 http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTINF:-1 group-title="KINO+",Р роман
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00601/1m/index.m3u8
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",Р бестселлер
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00602/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Р детектив
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00603/1m/index.m3u8
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
 #EXTINF:-1 group-title="KINO+",Ру Детектив
 http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",Душевное
-http://141.95.55.143/CH549/index.m3u8
 #EXTINF:-1 group-title="KINO+",Ретро
 http://135.181.115.81:8000/play/a03e/index.m3u8?token=livetv
-#EXTINF:-1 group-title="KINO+",RETRO
-http://185.23.80.28:8080/Retro/index.m3u8?token=test
 #EXTINF:-1 group-title="KINO+",Ретро ТВ
 http://194.158.218.123:8880/Retrotv/index.m3u8
-#EXTINF:-1 group-title="KINO+",ROMANCE
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00408/1m/index.m3u8
-#EXTINF:-1 group-title="KINO+",Ностальгия
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00365/1m/index.m3u8
 #EXTINF:-1 group-title="KINO+",Ностальгия
 http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="KINO+",Ностальгия SD
+http://91.205.199.3/nostalgia/index.m3u8
 #EXTINF:-1 group-title="Україна",ПЕРШИЙ
 https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
 #EXTINF:-1 group-title="Україна",ПЕРШИЙ HD
 http://193.107.168.98:7006/play/526/index.m3u8
+#EXTINF:-1 group-title="Україна",1
+http://212.79.122.11:5014/udp/239.255.6.37:1234
+#EXTINF:-1 group-title="Україна",Інтер HD
+http://212.79.122.11:5014/udp/239.255.6.25:1234
 #EXTINF:-1 group-title="Україна",1+1 марафон
 https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Україна",1+1 International
-http://141.95.55.143/CH797/index.m3u8
-#EXTINF:-1 group-title="Україна",1+1 УКРАЇНА HD
-http://141.95.55.143/CH4497/index.m3u8
-#EXTINF:-1 group-title="Україна",1+1 Ukraine
-http://195.189.60.33:5002/play/a00y
+#EXTINF:-1 group-title="Україна",1+1 Україна
+http://212.79.122.11:5014/udp/239.255.6.49:1234
 #EXTINF:-1 group-title="Україна",2+2
-http://195.189.60.33:5002/play/a00s
-#EXTINF:-1 group-title="Україна",2+2 720х576
-http://141.95.55.143/CH795/index.m3u8
+http://212.79.122.11:5014/udp/239.255.6.14:1234
 #EXTINF:-1 group-title="Україна",ICTV Серіал HD
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 group-title="Україна",ICTV Серіал r1
@@ -2903,14 +2677,6 @@ http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 group-title="Україна",ICTV Серіал r3
 http://cdnua05.hls.tv/625/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="Україна",ICTV СЕРІАЛ
-https://vs847.vcdn.biz/b1cacdcfe9d0e6e7402bfee786001b62_megogo/live/hls/dscte/2/advtracker/1/b/700_2490/u_sid/0/o/195113391/rsid/174c67db-0008-4823-8c0f-8142686e5ae8/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/176.98.8.68*asn/u_srvc/81235/u_did/web_fXAUAC6dRqIyPEOMB02F5h294TuveGSY/type.live/chunklist-sid2292503938375066663-b2490000.m3u8
-#EXTINF:-1 group-title="Україна",ICTV 2 1920x1080
-http://141.95.55.143/CH3287/index.m3u8
-#EXTINF:-1 group-title="Україна",ICTV 2
-http://195.189.60.33:5002/play/a00j
-#EXTINF:-1 group-title="Україна",ICTV 2 SD
-http://195.189.60.33:5002/play/a00u
 #EXTINF:-1 group-title="Україна",ICTV 2 hd
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 group-title="Україна",ICTV 2 hd1
@@ -2919,71 +2685,47 @@ http://cdnua05.hls.tv/921/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 group-title="Україна",ICTV 2 r2
 http://cdnua05.hls.tv/427/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="Україна",СТБ HD
-http://141.95.55.143/CH4663/index.m3u8
+#EXTINF:-1 group-title="Україна",Новий Канал HD
+http://212.79.122.11:5014/udp/239.255.6.38:1234
+#EXTINF:-1 group-title="Україна",CTБ HD
+http://212.79.122.11:5014/udp/239.255.6.21:1234
 #EXTINF:-1 group-title="Україна",STB fas-tv*com
 http://146.59.85.40:89/stb/mpegts
-#EXTINF:-1 group-title="Україна",STB sd
-http://193.160.224.255:8000/play/a02g
-#EXTINF:-1 group-title="Україна",STB HD
-http://195.189.60.33:5002/play/a00d
-#EXTINF:-1 group-title="Україна",STB SD
-http://195.189.60.33:5002/play/a00t
-#EXTINF:-1 group-title="Україна",NOVY CHANNEL HD
-http://195.189.60.33:5002/play/a00f
-#EXTINF:-1 group-title="Україна",NOVY Shanel
-http://193.160.224.255:8000/play/a01p
-#EXTINF:-1 group-title="Україна",Novy Shanel
-http://193.160.224.255:8000/play/a017
-#EXTINF:-1 group-title="Україна",Новий канал 
-http://141.95.55.143/CH785/index.m3u8
-#EXTINF:-1 group-title="Україна",Enter Film HD
-http://141.95.55.143/CH781/index.m3u8
+#EXTINF:-1 group-title="Україна",ТЕТ
+http://212.79.122.11:5014/udp/239.255.6.11:1234
+#EXTINF:-1 group-title="Україна",HTH HD
+http://212.79.122.11:5014/udp/239.255.6.39:1234
 #EXTINF:-1 group-title="Україна",K1 HD
-http://141.95.55.143/CH3313/index.m3u8
-#EXTINF:-1 group-title="Україна",K2
-http://193.160.224.255:8000/play/a02a
-#EXTINF:-1 group-title="Україна",TVOE KINO RELAX
-http://195.189.60.33:5002/play/a00n
-#EXTINF:-1 group-title="Україна",TVOE KINO ACTION
-http://195.189.60.33:5002/play/a00m
+http://212.79.122.11:5014/udp/239.255.6.41:1234
+#EXTINF:-1 group-title="Україна",Бігуді
+http://212.79.122.11:5014/udp/239.255.6.13:1234
+#EXTINF:-1 group-title="Україна",Enter-Фільм HD
+http://212.79.122.11:5014/udp/239.255.6.31:1234
 #EXTINF:-1 group-title="Україна",Action TVOE Kino HD
 http://193.27.209.122/tvoje_kino_action/index.m3u8
 #EXTINF:-1 group-title="Україна",Xit TVOE Kino HD
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 group-title="Україна",TVOE KINO HIT
-http://195.189.60.33:5002/play/a00o
-#EXTINF:-1 group-title="Україна",super+
-http://195.189.60.33:5002/play/a00l
 #EXTINF:-1 group-title="Україна",Super+ HD
 http://193.27.209.122/super_plus/index.m3u8
-#EXTINF:-1 group-title="Україна",KVARTAL TV
-http://141.95.55.143/CH1867/index.m3u8
+#EXTINF:-1 group-title="Україна",Super+
+http://212.79.122.11:5014/udp/239.255.6.48:1234
+#EXTINF:-1 group-title="Україна",Ми-Україна + HD
+http://212.79.122.11:5014/udp/239.255.6.7:1234
+#EXTINF:-1 group-title="Україна",Квартал ТВ HD
+http://212.79.122.11:5014/udp/239.255.6.35:1234
 #EXTINF:-1 group-title="Україна",Квартал ТВ
 http://146.59.85.40:89/kvartal/mpegts
 #EXTINF:-1 group-title="Україна",TVIY Serial HD
 http://146.59.85.40:89/tviyserial/mpegts
-#EXTINF:-1 group-title="Україна",TVIY SERIAL
-http://195.189.60.33:5002/play/a00k
-#EXTINF:-1 group-title="Україна",УНІАН [720x576]
-https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Україна",Usba TV - Україна
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Україна",Usba TV - Україна 2
-https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна",Твій серіал HD
+http://212.79.122.11:5014/udp/239.255.6.3:1234
 #EXTINF:-1 group-title="Україна",СОНЦЕ
 http://84.200.70.180:4642/bysid/6920
 #EXTINF:-1 group-title="Україна",Сонце HD TV 
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 group-title="Україна",ОЦЕ iptv*org*ua
-http://141.95.55.143/CH3305/index.m3u8
-#EXTINF:-1 group-title="Україна",Oце HD
-http://193.160.224.255:8000/play/a006
-#EXTINF:-1 group-title="Україна",OCE HD
-http://195.189.60.33:5002/play/a00i
-#EXTINF:-1 group-title="Україна",FILMUADRAMA
-http://141.95.55.143/CH1877/index.m3u8
-#EXTINF:-1 group-title="Україна",Кіно ТВ vhs
+#EXTINF:-1 group-title="Україна",Сонце
+http://212.79.122.11:5014/udp/239.255.6.19:1234
+#EXTINF:-1 group-title="Україна",Кіно ТВ Бровари 
 https://glb.bozztv.com/ssh101/kinotvua/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Україна",FILM TV GROUP
 http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
@@ -2991,24 +2733,18 @@ http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t
 http://filmtvgroup.hopto.org:8080/novosilkitb/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
 #EXTINF:-1 group-title="Україна",TEST FILM TV
 http://filmtvgroup.hopto.org:8080/test/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
-#EXTINF:-1 group-title="Україна",kinowood HD
-http://193.27.209.122/kinowood/index.m3u8
-#EXTINF:-1 group-title="Україна",Kinowood
-http://193.160.224.255:8000/play/a00x
-#EXTINF:-1 group-title="Україна",Kinoliving
-http://193.160.224.255:8000/play/a00d
 #EXTINF:-1 group-title="Україна",kinosweet HD
 http://193.27.209.122/kinosweet/index.m3u8
 #EXTINF:-1 group-title="Україна",Сine+ legend
 http://193.27.209.122/cine_plus_legend/index.m3u8
-#EXTINF:-1 group-title="Україна",D1
-https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="Україна",БІГУДІ
-http://141.95.55.143/CH1865/index.m3u8
-#EXTINF:-1 group-title="Україна",WE-UKRAINE+
-http://195.189.60.33:5002/play/a00v
-#EXTINF:-1 group-title="Україна",СВАРОЖИЧИ HD
-http://193.160.224.255:8000/play/a01fМ
+#EXTINF:-1 group-title="Україна",Оце HD
+http://212.79.122.11:5014/udp/239.255.6.4:1234
+#EXTINF:-1 group-title="Україна",Usba TV - Україна
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна",Usba TV - Україна 2
+https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна",ДІМ ТВ 
+http://212.79.122.11:5014/udp/239.255.6.18:1234
 #EXTINF:-1 group-title="Україна",ДІМ
 https://cdnua03.hls.tv/hls/6154479a1319705257f2335762b18f51/4780/stream.m3u8
 #EXTINF:-1 group-title="Україна",Cine+ HD
@@ -3275,6 +3011,8 @@ https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
 #EXTINF:-1 group-title="Україна",Аверс tva.org.ua
 https://m3u8.ott.blue/watch/356/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна",D1
+https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
 #EXTINF:-1 group-title="Україна",ДНІПРО ТВ
 http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4880/stream.m3u8
 #EXTINF:-1 group-title="Україна",Балта ТВ HD
@@ -3321,6 +3059,8 @@ http://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 http://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
 #EXTINF:-1 group-title="Казахстан",КТК kz
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан",CBC
+http://135.181.115.81:8000/play/a04m/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Азербайджан",Al Zahra TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Азербайджан",BAKU TV
@@ -3881,6 +3621,8 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 #EXTINF:-1 group-title="Италия",Radio 51
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Турция",atvi cinema
+http://135.181.115.81:8000/play/a04k/index.m3u8?token=livetv
 #EXTINF:-1 group-title="Турция",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="Турция",Briç ve Satranç TV
@@ -3895,62 +3637,18 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТЕРА
-http://141.95.55.143/CH7601/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ДАЧА
-http://141.95.55.143/CH7559/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",1 AVTO FAS-TV.COM
-http://141.95.55.143/CH1849/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АВТО 24
-http://141.95.55.143/CH4035/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Mega
-http://193.160.224.255:8000/play/a004
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nauka
-http://193.160.224.255:8000/play/a00g
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Medical
-http://193.160.224.255:8000/play/a01q
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",FAUNA
-http://193.160.224.255:8000/play/a01x
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",6 sotok
-http://193.160.224.255:8000/play/a027
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Terra
-http://193.160.224.255:8000/play/a00a
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",1Avto
-http://193.160.224.255:8000/play/a024
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Mason
-http://193.160.224.255:8000/play/a01y
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Sea
-http://193.160.224.255:8000/play/a015
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ФРОНТ
-http://193.160.224.255:8000/play/a010
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",КУС-КУС
-http://193.160.224.255:8000/play/a007
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Trofeu
-http://193.160.224.255:8000/play/a01o
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
-http://193.160.224.255:8000/play/a018
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мега HD
+http://212.79.122.11:5014/udp/239.255.6.40:1234
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History HD [RU-EN-CZ]
 http://95.67.12.81:10619?key=fas-tv.com
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History 2 HD [RU-EN-CZ]
 http://95.67.12.81:10620?key=fas-tv.com
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЯЯ ЖИЗНЬ
 http://185.57.68.33/40/mpegts
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",POPZNAY
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",POZNAY
 http://185.57.68.33/237/mpegts
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Sunset Space
 https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",viju NATURE HD
-http://141.95.55.143/CH4469/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",МУЖСКОЙ HD
-http://141.95.55.143/CH4607/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",РЫБОЛОВ HD
-http://141.95.55.143/CH4583/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",4К HD
-http://141.95.55.143/CH4541/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travelxp 4K HDR
-http://141.95.55.143/CH4577/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",DISCOVERY HD
-http://141.95.55.143/CH7305/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Світ на виворіт+ HD
 http://cdnua03.hls.tv/611/hls/f62d71219200da4130d13b21d23fb23c/4886/stream.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Світ на виворіт+
@@ -3971,14 +3669,6 @@ http://cdnua03.hls.tv/944/hls/8743361621b245838bee193c9ec28322/4806/stream.m3u8
 http://cdnua03.hls.tv/915/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ONE PLANET HD
 http://cdnua03.hls.tv/916/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов
-http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Диалоги о Рыбалке
-http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
-http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая охота HD
-http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Пятница International SD
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Investigation Discovery
@@ -3991,6 +3681,16 @@ http://stream02.vnet.am/NationalGeographic/index.m3u8
 http://45.159.74.14:80/NationalGeographic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild
 http://45.159.74.14:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+http://45.159.74.14/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",History
+http://45.159.74.14:80/Channel_123/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка
+http://45.159.74.14:80/Channel_126/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ОХОТНИК И РЫБОЛОВ HD
+http://45.159.74.14:80/Channel_124/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая ОХОТА
+http://45.159.74.14/Channel_127/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild SD
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
@@ -4005,7 +3705,9 @@ http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
 http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",K@TV1
+http://135.181.115.81:8000/play/a04s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet hd
 http://stream01.vnet.am/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая Охота 
 http://stream01.vnet.am/Channel_127/mono.m3u8
@@ -4019,12 +3721,6 @@ http://95.67.12.82:9088
 http://95.67.12.82:9083
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TravelXp 4K
 http://95.67.12.82:9086/
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",GALAXY
-http://141.95.55.143/CH4585/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO HD
-http://141.95.55.143/CH4439/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
-http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ТСВ 720x576
 https://iptv-hls.idc.md/hls/2/live1.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ" ,ТСВ SD
@@ -4041,84 +3737,26 @@ http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
 http://65.21.85.175:8000/play/a01t/index.m3u8?token=livetv
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический HD
 http://stream01.vnet.am/Evrika/mono.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия 
-http://185.23.80.28:8080/Teleputeshestviya/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикий
-http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Точка отрыва
-http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD
-http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных
-http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
-http://185.23.80.28:8080/Zagorodnyj/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЖИВАЯ ПРИРОДА HD
-http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука
 http://178.124.152.238:8088/nauka
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Зоо ТВ
-http://185.23.80.28:8080/ZooTV/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический HD
-http://185.23.80.28:8080/Evrika_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ключ
-http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIJU Explore
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00321/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIJU History
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00322/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIJU Nature
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00323/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",HISTORY
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00286/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ID DISCOVERY
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00269/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ID
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00270/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00297/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00299/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic r
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00406/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TLC
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00420/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TLC HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00430/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel channel
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00421/1m/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature HD
+http://91.205.199.3/viasatnature/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://91.205.199.3/viasatexplorer/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00306/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",EX
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00277/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Телепутишествия
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00413/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мужской
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00539/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗОО ТВ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00410/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",УСАДЬБА
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00456/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00525/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и рыбалка
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00369/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыболов
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00414/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",МОЯ стихия
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00559/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00257/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АВТО плюс
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00327/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Авто 24
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00259/1m/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Драйв
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00540/1m/index.m3u8
+http://91.205.199.3/rtgtv/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая охота FHD
+http://91.205.199.3/dikayaoxotahd/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
+http://91.205.199.3/dikayaribalkahd/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста HD
+http://91.205.199.3/glazamituristahd/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АВТО24
+http://91.205.199.3/avto24/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
+http://91.205.199.3/jivayaprirodahd/index.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic Wild HD (6 ЯЗЫКОВ)
 http://78.130.250.2:8023/play/a02c/index.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка FHD
-https://flussonic.salomtv.uz/DikayaRibalkaHD/video.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4k
@@ -4129,18 +3767,6 @@ http://cdnua03.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 http://cdnua03.hls.tv/945/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",XSPORT+ HD
 http://cdnua03.hls.tv/947/hls/8743361621b245838bee193c9ec28322/4807/stream.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",XSPORT+
-http://141.95.55.143/CH3347/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1
-http://141.95.55.143/CH1013/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports UA
-http://141.95.55.143/CH1147/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Динамо Київ TV HD
-http://141.95.55.143/CH6751/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Sport2
-http://193.160.224.255:8000/play/a01u
-#EXTINF:-1 group-title="SPORT 🏆",Setanta sport HD
-http://193.160.224.255:8000/play/a023
 #EXTINF:-1 group-title="SPORT 🏆",Суспільне Спорт ful hd
 http://95.67.12.81:10625
 #EXTINF:-1 group-title="SPORT 🏆",Суспільне Спорт HD
@@ -4151,110 +3777,24 @@ http://cdnua03.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4856/stream.m3u8
 http://cdnua03.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Футбол 3
-http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="SPORT 🏆",Fast Sports HD
+http://45.159.74.14:80/Channel_131/manifest.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",KHL
+http://45.159.74.14:80/Channel_113/manifest.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",КХЛ
 http://178.124.152.238:8088/khl
-#EXTINF:-1 group-title="SPORT 🏆",КХЛ ТВ
-http://185.23.80.29:8080/KHL/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ ТВ HD
-http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",Телеканал Футбол
-http://185.23.80.29:8080/Football/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT 🏆",СТАРТ
-http://185.23.80.29:8080/START/index.m3u8?token=test
+#EXTINF:-1 group-title="SPORT 🏆",NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Футбол 3
+http://185.57.68.33/110/mpegts
 #EXTINF:-1 group-title="SPORT 🏆",МИР БАСКЕТБОЛА
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SPORT 🏆",Планета
 http://stream02.vnet.am/MatchPlaneta/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Viasat Sport
 http://135.181.115.81:8000/play/a00f/index.m3u8?token=livetv
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ1
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00398/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ2
-http://xx001.vivat.livet-1.0f6f.d/sd/00400/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ2 R
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00401/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ3 HD 
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00402/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ3
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00403/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ!
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00543/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Премьер
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00425/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ИГРА
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00285/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Арена
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00387/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Арена HD
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00388/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",М Страна
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00390/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",KHL
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00395/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",KHL PRIME
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00483/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",VIJU+ SPORT
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00325/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00274/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 2
-http://xx001.vivat.live/t-3161.3e0e.da797636abd49d0fd27cdf1969468037/sd/00275/1m/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆", Eurosport 1
-https://tv.movielab.pro/145/video.m3u8?token=3bc84244ebe2c2b7b878f126a7d1bbdb524594c5-7f073867f35f9910a7f7dc6fb64d4b54-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", KHL Prime
-https://tv.movielab.pro/177/video.m3u8?token=414bf959a373a8bf4acd7232f6bd31b63e68a3b1-6bffd2cf28b2258d5ca6da4019ddc2d1-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", NBA TV HD
-https://tv.movielab.pro/9984/video.m3u8?token=58180c942bffaa28f1f4189dae2a2f8e4afced06-aeed242ff4a2677a4e5446f22ecb5e6e-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 1
-https://tv.movielab.pro/942/video.m3u8?token=adfcc97be598609588d27469baa92755fe633de5-473fcd4a18d711bf41c18e120a43904d-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 2
-https://tv.movielab.pro/943/video.m3u8?token=573cd1f7a6765fcd4350e1a08f0f05364f70ec50-ec7c9311229f2de0878b65f0a7e21221-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", Setanta Казахстан
-https://tv.movielab.pro/5094/video.m3u8?token=17d7744733ae6dfdfd264b8667dfe1246e7229ac-7aa4a3703b977b57ccd44b3bce3dab93-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", Матч! HD
-https://tv.movielab.pro/397/video.m3u8?token=b67646477b1600d1ab12e81f6159132c66559f0b-90a62c98e555ae9ab22b1779f088c05b-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆" Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=a9d81729f7140e73dff92f3bb1a7fd5f04003209-446d3bc984fbe5639f8c10702287d28a-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆", Игра HD
-https://tv.movielab.pro/268/video.m3u8?token=b53b0dc01712c00a85e2aa4a4b177998151d3956-ad89edc3d587792b60e05326741953ae-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=0bcdc06acc58470f5e65a0b91882c083917d8264-ceb1c99843ad5b7c832f7e269839bde0-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=ffadebcd326568e72f2512431b468ee7da0fa2ab-bd34a53adee0d9475b3b4e8faa5dcab4-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=0ac01e85ad954ff4eaf057c89588209338bcd044-0971008f430d4ae578e327552a6847b5-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=548b5f05bd1c27a778fadf2b061f7db598e48d27-ab038d4608519c37292078aae5e24f8c-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Удар
-https://tv.movielab.pro/4111/video.m3u8?token=6690e451130e83fc1b6a7aa7ca62e5b45f0ecda5-4d5d6cd159f029685ee9281d5661ba36-1740513883-1740427483
-#EXTINF:-1 group-title="SPORT 🏆",Футбол
-https://tv.movielab.pro/3920/video.m3u8?token=43d849c8242e827f44d182179bb6061d13730864-f2970bc4f4bb3093d105c9128fa8a90f-1740513883-1740427483
 #EXTINF:-1 group-title="SPORT 🏆",Viju+ Sport
 http://stream02.vnet.am/AutoPlus/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
-http://193.160.224.255:8000/play/a013
-#EXTINF:-1 group-title="SPORT 🏆",ExtremeSports
-http://193.160.224.255:8000/play/a01m
-#EXTINF:-1 group-title="SPORT 🏆",FastBox
-http://193.160.224.255:8000/play/a00f
-#EXTINF:-1 group-title="SPORT 🏆",Fight
-http://193.160.224.255:8000/play/a02e
-#EXTINF:-1 group-title="SPORT 🏆",МАТЧ СТРАНА HD
-http://141.95.55.143/CH4591/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",ФУТБОЛ HD
-http://141.95.55.143/CH4463/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",МИР БАСКЕТБОЛА HD
-http://141.95.55.143/CH4619/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",GO3 SPORT1 HD LT
-http://141.95.55.143/CH4723/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SKY SPORT mix HD qae
-http://141.95.55.143/CH5511/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SKY SPORT HD qae
-http://141.95.55.143/CH5513/index.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SKY SPORT golf  HD qae
-http://141.95.55.143/CH5515/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8 
 #EXTINF:-1 group-title="SPORT 🏆", Беларусь 5 HD
@@ -4265,6 +3805,66 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w6016
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Eurosport 1 HD
 http://stream01.vnet.am/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Eurosport 1
+https://tv.movielab.pro/145/video.m3u8?token=4870282b4963dde6cf21a8089f8ff5ce13014de7-6dbfc5760b1370195abc09df051ef651-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",KHL Prime
+https://tv.movielab.pro/177/video.m3u8?token=f76ce598be5b5313825fc6dcb2e4f422c5eb1fa4-14bc5bfaad367ba00ec5f91b6ca8d941-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",NBA TV HD
+https://tv.movielab.pro/9984/video.m3u8?token=e40b64556ddb73121626a51f1d65511fc86b597a-4bd81b65a4528616d6e359313a38ec85-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 1
+https://tv.movielab.pro/942/video.m3u8?token=9d166d4dcec7e44350d5ab7c235484d4e961d7d8-376bb36944a2c423245d70befb5c017e-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Sports 2
+https://tv.movielab.pro/943/video.m3u8?token=50e836fec3c9c8505f93ac903eafcb2868beeb00-73b4ca5e95bd0ac74a8d8ea4a9dfc213-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8?token=31e36e69f0cc5083cce0b995f1d8e085d4529db1-829716c0a25c21fcb53775d05ffd4b90-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! HD
+https://tv.movielab.pro/397/video.m3u8?token=375e6e280e81dbdc8f1318fd856a57821cca74a4-991e462b6ae5b0384f0e35cb09b44a69-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Арена HD
+https://tv.movielab.pro/146/video.m3u8?token=f87acb89798e7e44e5f2737c1cfdb0fc106b0c23-491044cddd945d98f4893b2f3c73af36-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Игра HD
+https://tv.movielab.pro/268/video.m3u8?token=14e267587da54e0f0b48045805176eacd8399405-732b87551ad25f6dffc4c0834ae43e90-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Премьер HD
+https://tv.movielab.pro/250/video.m3u8?token=e4210bbe5ad6374d659e10a9658fbeb7175576ca-60d2915eb4156c03a9d310e424b08fd1-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 1 HD
+https://tv.movielab.pro/260/video.m3u8?token=d9157c9100b6ec1782c9beb9351f877805cdc106-80f827c948026493007a7883f6e60a6b-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=51239969e248c732691b44709892f2a2b94a9153-c75eaa3910800c5469509c22aa504a32-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Матч! Футбол 3 HD
+https://tv.movielab.pro/329/video.m3u8?token=e10ae74111cca96e6096bda3ee7b9a36236f66b8-f62baf8b7de231233e906adf51095d90-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Удар
+https://tv.movielab.pro/4111/video.m3u8?token=5d46c1d1c98aad5e4e4107d9ceb693df80567a66-1400de8fed4a882514e65d670bb21094-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆",Футбол
+https://tv.movielab.pro/3920/video.m3u8?token=f8adb0a70a6c5255ff2ec59141dc22675ada7094-8445509f5527bbcd64f4a1555bd8b56b-1741809324-1741722924
+#EXTINF:-1 group-title="SPORT 🏆", Eurosport 1
+https://tv.movielab.pro/145/video.m3u8?token=0a07f79dcabe725012920af79caeafc34e917a6c-f92777038cc512b6fe80d633bff6f60b-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", KHL Prime
+https://tv.movielab.pro/177/video.m3u8?token=500799143f5663354cdcc3ccdc438fbd991c35b0-dd5b476b7fba3eafc3dc0f8d33e28a64-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", NBA TV HD
+https://tv.movielab.pro/9984/video.m3u8?token=3a43c17bc91d37e4317ba25fb316704c44548761-b601329cdba74b4186c86ce700b63ed1-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 1
+https://tv.movielab.pro/942/video.m3u8?token=617c7cd6f2d25e6d05f8bc49b8fcd64f07fee4bd-6e103514ed392c6e8f2e0a8fe862ba74-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Setanta Sports 2
+https://tv.movielab.pro/943/video.m3u8?token=121a95a15ec6f16260fd8d19e34103e799f906a9-a48e38297ee66a2f6dda649421657a27-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8?token=ff3f02eb886045776bf35caac62fbb3822531013-234bc8be6e186c483f6f39ab83423f51-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! HD
+https://tv.movielab.pro/397/video.m3u8?token=1b0fea4c70dc805adf91bb2783c1a173b449cd2a-16414ce1a3b3d8f53ed2afcd25e7f1af-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Арена HD
+https://tv.movielab.pro/146/video.m3u8?token=4f6e2e9cdf7277200f54e534d1166d546880c7c2-e1cec54346783d2a33f4e70c2290b5e8-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Игра HD
+https://tv.movielab.pro/268/video.m3u8?token=2dc31ef67e8a40ed5ed6b4379908c982699c4f8e-c2099e52d79058878ed2f139a2c4dc19-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Премьер HD
+https://tv.movielab.pro/250/video.m3u8?token=6aaa6e26751347b775f66793dc904124941042b8-67cf7437098a3dfbbae6e85f48e9cd1a-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Футбол 1 HD
+https://tv.movielab.pro/260/video.m3u8?token=87432bfa47b363e1c631f992abf6ccfcc6edd712-387dc4a3d78f9a93165ddda6e708c198-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=517bf1a7afe528c5c747b1962ab30468bdfa8bee-ea79c7b3837aecffc56b8f2ea54ed93d-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Матч! Футбол 3 HD
+https://tv.movielab.pro/329/video.m3u8?token=9840202d484d12ba26b06c1cc316474e93e28521-117e1a33a4791ecf4d78c888ed80d2d9-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Удар
+https://tv.movielab.pro/4111/video.m3u8?token=a2335608e787c93ac20d57ff95d1c71ef7f8bc83-2d8e6eb9a134e5745fad7fca858e1a4a-1741766190-1741679790
+#EXTINF:-1 group-title="SPORT 🏆", Футбол
+https://tv.movielab.pro/3920/video.m3u8?token=1cd95a6ee03149f694d0aaf37588f04fd4b19331-e16fa38c40abbbff1ff3c8b35d0fdeb6-1741766190-1741679790
 #EXTINF:-1 group-title="SPORT 🏆",FightBox 
 http://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Fast Sports
@@ -4277,6 +3877,8 @@ https://stream01.vnet.am/Fightbox/mono.m3u8
 http://stream01.vnet.am/BoksTv/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",МАТЧ 
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 group-title="SPORT 🏆",Боец
+http://87.120.142.11:18000/Match!
 #EXTINF:-1 group-title="SPORT 🏆",RING HD [Bulgarian]
 http://87.246.60.6:11021
 #EXTINF:-1 group-title="SPORT 🏆",SPORTS 4
@@ -4285,8 +3887,16 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Trace Sport Stars
 http://95.67.12.82:9067
+#EXTINF:-1 group-title="SPORT 🏆",TRT3 SPOR TURKISH
+http://135.181.115.81:8000/play/a00u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="SPORT 🏆",a SPOR TURKISH
 http://135.181.115.81:8000/play/a03h/index.m3u8?token=livetv
+#EXTINF:-1 group-title="SPORT 🏆",IDMAN TV TURKISH
+http://135.181.115.81:8000/play/a04q/index.m3u8?token=livetv
+#EXTINF:-1 group-title="SPORT 🏆",TV 8-5 TURKISH
+http://135.181.115.81:8000/play/a02s/index.m3u8?token=livetv
+#EXTINF:-1 group-title="SPORT 🏆",CUDUBAI 3
+https://streaming.goodstream.cyou/live/7011.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sports Grid
@@ -4349,22 +3959,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunkl
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Dubai Sports 3 HD [ae]
 https://streamer3.connectto.com/913/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",SPORT TV 2 HD
-http://fortv.cc:8080/3432637322/rsneilson99@gmail.com/167743
-#EXTINF:-1 group-title="SPORT 🏆",SPORT TV 3 HD
-http://fortv.cc:8080/3432637322/rsneilson99@gmail.com/167744
-#EXTINF:-1 group-title="SPORT 🏆",SPORT TV 4 HD
-http://fortv.cc:8080/3432637322/rsneilson99@gmail.com/167749
-#EXTINF:-1 group-title="SPORT 🏆",SPORT TV 5 HD
-http://fortv.cc:8080/3432637322/rsneilson99@gmail.com/167750
 #EXTINF:-1 group-title="SPORT 🏆",Boxing TV
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",NovaSports 2 HD cz
-http://146.59.85.40:89/novasport2/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",NovaSports 3 HD cz
-http://146.59.85.40:89/novasport3/mono.m3u8
-#EXTINF:-1 group-title="SPORT 🏆",NovaSports 4 HD cz
-http://146.59.85.40:89/novasport4/mono.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Sky Sports Football HD
 http://iptvtree.net:8080/F32628/09b7a855/266
 #EXTINF:-1 group-title="SPORT 🏆",Sky Sports Premier League HD
@@ -4447,44 +4043,16 @@ https://stream-msk-09.ott.tricolor.tv:443/dtv/id877_MSKSG-PVR-1--Nash_sport28/03
 https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03/plst.m3u8
 #EXTINF:-1 group-title="SPORT 🏆",Tr SPORT 30
 https://stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1--Nash_sport30/02/plst.m3u8
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Viasat Sport
-http://flu.ttk.mx:90/Viasat_Sport/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч ТВ HD
-http://flu.ttk.mx:90/Match_HD/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч ТВ
-http://flu.ttk.mx:90/MatchTV/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч! Боец
-http://flu.ttk.mx:90/Boets/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч! Страна
-http://flu.ttk.mx:90/Strana/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч! Арена
-http://flu.ttk.mx:90/Arena/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч!Футбол 1 HD
-http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч!Футбол 2 HD
-http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч!Футбол 3
-http://flu.ttk.mx:90/football_3/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Матч!Футбол 3 HD
-http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs06e
-#EXTINF:-1 group-title="SPORT 🏆 VPN",Футбол
-http://flu.ttk.mx:90/Futbol/mono.m3u8?token=hs06e
 #EXTINF:-1 group-title="SPORT 🏆 VPN",KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="SPORT 🏆 VPN",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="CHILDREN'S",niki_kids
-http://193.160.224.255:8000/play/a00s
-#EXTINF:-1 group-title="CHILDREN'S",niki_junior
-http://193.160.224.255:8000/play/a002
-#EXTINF:-1 group-title="CHILDREN'S",Niki Junior HD
-http://141.95.55.143/CH1965/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",ПЛЮС ПЛЮС
-http://141.95.55.143/CH3285/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",ПІКСЕЛЬ
-http://141.95.55.143/CH3317/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Sunset Kids
 https://stream.sunset-media.ru:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Плюс Плюс
+http://212.79.122.11:5014/udp/239.255.6.12:1234
+#EXTINF:-1 group-title="CHILDREN'S",Піксель ТВ HD
+http://212.79.122.11:5014/udp/239.255.6.30:1234
 #EXTINF:-1 group-title="CHILDREN'S",Nick Jr
 rtmp://212.0.213.132//NickJr
 #EXTINF:-1 group-title="CHILDREN'S", Мульт
@@ -4499,32 +4067,34 @@ http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
 http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Cartoonito HD
 http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Cartoonito HD
+http://45.159.74.14:80/Channel_120/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Nickelodeon
+http://45.159.74.14:80/Channel_114/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Мультиландия
-http://185.23.80.28:8080/Multilandiya/index.m3u8?token=test
+http://185.23.80.29:8080/Multilandiya/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",РАДОСТЬ МОЯ
-http://185.23.80.28:8080/RadostMoya/index.m3u8?token=test
+http://185.23.80.29:8080/RadostMoya/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",Уникум
-http://185.23.80.28:8080/Unikum/index.m3u8?token=test
+http://185.23.80.29:8080/Unikum/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",Карусель
-http://185.23.80.28:8080/Karusel/index.m3u8?token=test
+http://185.23.80.29:8080/Karusel/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",Бобёр
-http://185.23.80.28:8080/Bober/index.m3u8?token=test
+http://185.23.80.29:8080/Bober/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",СОЛНЦЕ
-http://185.23.80.28:8080/Disney/index.m3u8?token=test
+http://185.23.80.29:8080/Disney/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",Рыжий
-http://185.23.80.28:8080/Ryzhij/index.m3u8?token=test
+http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",TiJi
-http://185.23.80.28:8080/TiJi/index.m3u8?token=test
+http://185.23.80.29:8080/TiJi/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",БОБЕР
-http://185.23.80.28:8080/Bober/index.m3u8?token=test
+http://185.23.80.29:8080/Bober/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",2х2
-http://185.23.80.28:8080/2x2/index.m3u8?token=test
-#EXTINF:-1 group-title="CHILDREN'S", VPN Аниме HD
-http://fs2.persik.by/Anime6/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S", VPN Детские фильмы
-https://fs2.persik.by/DetskieFilmy5/index.m3u8
+http://185.23.80.29:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 group-title="CHILDREN'S",Gulli Girl
 http://135.181.115.81:8000/play/a03p/index.m3u8?token=livetv
+#EXTINF:-1 group-title="CHILDREN'S",Cartoonito
+http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CHILDREN'S",TiJi
 http://135.181.115.81:8000/play/a04c/index.m3u8?token=livetv
 #EXTINF:-1 group-title="CHILDREN'S",Nickelodeon
@@ -4535,10 +4105,6 @@ http://135.181.115.81:8000/play/a03d/index.m3u8?token=livetv
 http://193.27.209.122/ducktv/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",TiJi 
 http://193.27.209.122/tiji/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Cartoon Network
-http://193.160.224.255:8000/play/a02b
-#EXTINF:-1 group-title="CHILDREN'S",KinoKazka
-http://193.160.224.255:8000/play/a026
 #EXTINF:-1 group-title="CHILDREN'S",KINO Казка
 http://cdnua03.hls.tv/948/hls/8743361621b245838bee193c9ec28322/4812/stream.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",DUCK TV PLUS
@@ -4569,18 +4135,6 @@ http://stream01.vnet.am/Kinosemya/mono.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",CHD TV
 http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S", Da Vinci
-https://flussonic.salomtv.uz/Davinci/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",В Гостях у Сказки
-https://flussonic.salomtv.uz/Vgostahuskazki/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Карусель
-https://flussonic.salomtv.uz/Karusel/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Детский Мир
-https://flussonic.salomtv.uz/DetskiyMir/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Уникум
-https://flussonic.salomtv.uz/Detskiy/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
-https://flussonic.salomtv.uz/Multilandiya/video.m3u8
 #EXTINF:-1 group-title="CHILDREN'S",Kinokazka
 http://95.67.12.82:9084/
 #EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я 4 2024 професійний дубльований
@@ -4633,16 +4187,18 @@ http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 #EXTINF:-1 group-title="МУЗИКА",Radio 51
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="МУЗИКА",Europa plus tv
+http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
+#EXTINF:-1 group-title="МУЗИКА",dream tur
+http://135.181.115.81:8000/play/a03k/index.m3u8?token=livetv
+#EXTINF:-1 group-title="МУЗИКА",POWER TURKISH
+http://135.181.115.81:8000/play/a03z/index.m3u8?token=livetv
 #EXTINF:-1 group-title="МУЗИКА",70-80 TV [it]
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА",М1 
-http://141.95.55.143/CH4499/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА",M1 HD
-http://195.189.60.33:5002/play/a00g
-#EXTINF:-1 group-title="МУЗИКА",M2 HD
-http://195.189.60.33:5002/play/a00h
-#EXTINF:-1 group-title="МУЗИКА",M2 
-http://141.95.55.143/CH4501/index.m3u8
+#EXTINF:-1 group-title="МУЗИКА",М1
+http://212.79.122.11:5014/udp/239.255.6.28:1234
+#EXTINF:-1 group-title="МУЗИКА",М2 HD
+http://212.79.122.11:5014/udp/239.255.6.23:1234
 #EXTINF:-1 group-title="МУЗИКА",М-2 hd
 https://rebrand.ly/h46jugi/ROSTIK-TV/M-2
 #EXTINF:-1 group-title="МУЗИКА",М2 1280х720
@@ -4739,8 +4295,6 @@ https://fs2.persik.by/Relax4/index.m3u8
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="РЕЛАКС- расслабление",Loupe TV
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
-#EXTINF:-1 group-title="ОБЩИЕ",ENGLISH CLASS
-http://141.95.55.143/CH4039/index.m3u8
 #EXTINF:-1 group-title="ОБЩИЕ",OstWest 24
 http://95.67.12.82:9077
 #EXTINF:-1 group-title="ОБЩИЕ",ПРАВО
@@ -4789,24 +4343,6 @@ http://45.87.172.19:85/PrivateTV/index.m3u8
 http://45.87.172.19:85/SuperOne_HD/index.m3u8
 #EXTINF:-1 group-title="18+",Super One
 http://45.87.172.19:85/SuperOne/index.m3u8
-#EXTINF:-1 group-title="18+",XXXOTICA
-http://141.95.55.143/CH535/index.m3u8
-#EXTINF:-1 group-title="18+",HUSTLER HD
-http://141.95.55.143/CH743/index.m3u8
-#EXTINF:-1 group-title="18+",Redlight 
-http://141.95.55.143/CH745/index.m3u8
-#EXTINF:-1 group-title="18+",VIVID RED
-http://141.95.55.143/CH1187/index.m3u8
-#EXTINF:-1 group-title="18+",BABES TV
-http://141.95.55.143/CH1189/index.m3u8
-#EXTINF:-1 group-title="18+",PRIVATE
-http://141.95.55.143/CH1191/index.m3u8
-#EXTINF:-1 group-title="18+",EROX
-http://141.95.55.143/CH1193/index.m3u8
-#EXTINF:-1 group-title="18+",PENTHOUSE
-http://141.95.55.143/CH3479/index.m3u8
-#EXTINF:-1 group-title="18+",PENTHOUSE PASSION
-http://141.95.55.143/CH3517/index.m3u8
 #EXTINF:-1 group-title="18+",Reality Kings TV
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18+",Leo TV HD
@@ -4827,32 +4363,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="18+",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:-1 group-title="18+", Pornbox HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159964
-#EXTINF:-1 group-title="18+", Pornbox HD BloW Me
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159963
-#EXTINF:-1 group-title="18+", Pornbox HD First Anal
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159985
-#EXTINF:-1 group-title="18+", Pornbox 2 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159965
-#EXTINF:-1 group-title="18+", Pornbox 3 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159966
-#EXTINF:-1 group-title="18+", Pornbox 4 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159968
-#EXTINF:-1 group-title="18+", Pornbox 5 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159969
-#EXTINF:-1 group-title="18+", Pornbox 6 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159970
-#EXTINF:-1 group-title="18+", Pornbox 7 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159971
-#EXTINF:-1 group-title="18+", Pornbox 8 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159972
-#EXTINF:-1 group-title="18+", Pornbox 9 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159973
-#EXTINF:-1 group-title="18+", Pornbox 10 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159974
-#EXTINF:-1 group-title="18+", Pornbox 11 HD
-http://cord-cutter.net:8080/zacslife@gmail.com/bCtS8mEwBe/159975
 #EXTINF:-1 group-title="18+", PORNFIDELITY HD
 http://kstv.us:8080/live/haw5UJfF68/1729172230/47191.ts
 #EXTINF:-1 group-title="18+", Brazers TV Europa HD
